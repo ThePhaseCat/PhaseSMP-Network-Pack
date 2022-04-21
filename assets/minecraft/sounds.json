@@ -1,65 +1,65 @@
 {
-	"sound.custom.arrival_line1_commiland":{
+	"arrival/line1/commiland":{
 		"sounds": [
            "custom/arrival_line1_commiland"
 		]
     },
-	"sound.custom.arrival_line1_fieldland":{
+	"arrival/line1/southphasetown":{
 		"sounds": [
            "custom/arrival_line1_fieldland"
 		]
     },
-	"sound.custom.arrival_line1_penguingrotto":{
+	"arrival/line1/penguingrotto":{
 		"sounds": [
            "custom/arrival_line1_penguingrotto"
 		]
     },
-	"sound.custom.arrival_line1_phasecave":{
+	"arrival/line1/phasecave":{
 		"sounds": [
            "custom/arrival_line1_phasecave"
 		]
     },
-	"sound.custom.arrival_line1_phasecave_alt":{
+	"arrival/line1/phasecave_alt":{
 		"sounds": [
            "custom/arrival_line1_phasecave_alt"
 		]
     },
-	"sound.custom.arrival_line1_phasefarm":{
+	"arrival/line1/phasefarm":{
 		"sounds": [
            "custom/arrival_line1_phasefarm"
 		]
     },
-	"sound.custom.arrival_line1_phasemall":{
+	"arrival/line1/phasemall":{
 		"sounds": [
            "custom/arrival_line1_phasemall"
 		]
     },
-	"sound.custom.arrival_line1_spawn":{
+	"arrival/line1/spawn":{
 		"sounds": [
            "custom/arrival_line1_spawn"
 		]
     },
-	"sound.custom.tts_penguin_grotto_station":{
+	"tts/line1/penguingrotto":{
 		"sounds": [
            "custom/tts_penguin_grotto_station"
 		]
     },
-	"sound.custom.tts_phase_cave_station":{
+	"tts/line1/phasecave":{
 		"sounds": [
            "custom/tts_phase_cave_station"
 		]
     },
-	"sound.custom.tts_phase_mall_station":{
+	"tts/line1/phasemall":{
 		"sounds": [
            "custom/tts_phase_mall_station"
 		]
     },
-	"sound.custom.tts_south_phase_town_station":{
+	"tts/line1/southphasetown":{
 		"sounds": [
            "custom/tts_south_phase_town_station"
 		]
     },
-	"sound.custom.tts_spawn_station":{
+	"tts/line1/spawn":{
 		"sounds": [
            "custom/tts_spawn_station"
 		]
