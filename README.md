@@ -1,4 +1,4 @@
-# PhaseSMP-Rail-Network-Pack
+# THIS BRANCH IS IN HEAVY DEV AND TESTING, PLEASE DO NOT USE AS AN ACTUAL RESOURCE PACK
 A resource pack (currently only sounds) to be used on the PhaseSMP Rail Network
 
 - Features arrival music for every station on the network
