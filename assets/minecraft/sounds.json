@@ -38,30 +38,5 @@
 		"sounds": [
            "custom/arrival_line1_spawn"
 		]
-    },
-	"tts/line1/penguingrotto":{
-		"sounds": [
-           "custom/tts_penguin_grotto_station"
-		]
-    },
-	"tts/line1/phasecave":{
-		"sounds": [
-           "custom/tts_phase_cave_station"
-		]
-    },
-	"tts/line1/phasemall":{
-		"sounds": [
-           "custom/tts_phase_mall_station"
-		]
-    },
-	"tts/line1/southphasetown":{
-		"sounds": [
-           "custom/tts_south_phase_town_station"
-		]
-    },
-	"tts/line1/spawn":{
-		"sounds": [
-           "custom/tts_spawn_station"
-		]
     }
 }
