@@ -39,3 +39,7 @@
 -The Radio Music (Portal 2): https://youtu.be/s-UFPhz2nZ0
 
 -Aquatic Base Level 1 (Sonic 06): https://youtu.be/dEHuZpITceY
+
+-Through Traffic (Sonic Riders: Zero Gravity): https://youtu.be/Y0ZxiWUEiX4
+
+-Shining Sprinter (No game attatched to it): https://youtu.be/983ocD7xwBg
