@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 8,
-    "description": "The Resource Pack for the PhaseSMP. Adding arrival music and TTS to support the PhaseRail Network, one block at a time!"
+    "description": "The Resource Pack for the PhaseSMP, which changes some textures and adds custom music for the network!"
   }
 }
