@@ -20,6 +20,9 @@ The sound names in this pack follow a simple formula that is easy to understand 
 For example:
 "arrival/line1/phasecave" plays the arrival music on Line 1 when reaching PhaseCave Station!
 
+# Credits
+ - Dark Mode Textures pulled from Vanilla Tweaks (https://vanillatweaks.net/picker/resource-packs/)
+
 # Boring Stuff
 
 Feel free to provide any suggestions for audio and other cool things in this resource pack!
