@@ -1,24 +1,18 @@
-## Potential Line 1 West Extention Arrival Music (Can change at any moment):
+## Line 1 West Extention Arrival Music (Almost final choices, some things may change before release).
 
--Jubilife Village (Any version, Pokemon: Legends Arceus): https://youtu.be/uMeBK_6hfdQ
+-Coronet Highlands - Summit (Pokemon: Legends Arceus): https://youtu.be/Lg2VdSyHSRU (Could be used for trainb0y's base station>)
 
--Disaster Looming: Battle Theme (Pokemon: Legends Arceus): https://youtu.be/sVXHY7BDjo0
+-Science Outpost (Starbound: Frackin Universe): https://youtu.be/br_4bLZBwUI (Could be used for slime farm station?)
 
--Coronet Highlands - Summit (Pokemon: Legends Arceus): https://youtu.be/Lg2VdSyHSRU
+-Aquatic Base Level 1 (Sonic 06): https://youtu.be/dEHuZpITceY (Could be used for birch forest station?)
 
--Legendary Pokemon Battle Theme (Pokemon: Legends Arceus): https://youtu.be/JTXOvSaBeDM
-
--Ocean Battle (Starbound: Vanilla): https://youtu.be/4F1YSW1aTjk
-
--Science Outpost (Starbound: Frackin Universe): https://youtu.be/br_4bLZBwUI
-
--Aquatic Base Level 1 (Sonic 06): https://youtu.be/dEHuZpITceY
-
--Through Traffic (Sonic Riders: Zero Gravity): https://youtu.be/Y0ZxiWUEiX4
+-Through Traffic (Sonic Riders: Zero Gravity): https://youtu.be/Y0ZxiWUEiX4 (Could be used for station directly after spawn?)
 
 ## This section contains links for potential audio/music for any PhaseRail Lines. This is not a confirmation that any of these will show up; these are mearly suggestions and can be removed/tweaked at any moment in time. If these are used in any way, they will be removed from this list.
 
 -Worm Tunnel (Sonic Boom 3DS, too lazy to write out its massive title): https://youtu.be/J7-4UbTLsiQ
+
+-Jubilife Village (Pokemon: Legends Arceus): https://youtu.be/uMeBK_6hfdQ (Could be used for trainb0y's base station?)
 
 -Wild Pokemon Battle Theme (Non-Alpha, Pokemon: Legends Arceus): https://youtu.be/HxVg6Qj9a7M
 
@@ -28,13 +22,19 @@
 
 -Disaster Looming (Could be used in a desert or ancient area, Pokemon: Legends Arceus): https://youtu.be/qM3QoDMMmwA
 
+-Disaster Looming: Battle Theme (Pokemon: Legends Arceus): https://youtu.be/sVXHY7BDjo0
+
 -Palkia and Dialga Origin Form Battle Theme (Pokemon: Legends Arceus): https://youtu.be/9MO4IcSHWGw
+
+-Legendary Pokemon Battle Theme (Pokemon: Legends Arceus): https://youtu.be/JTXOvSaBeDM
 
 -Arctic Battle 3/Asra Nox Battle Theme (Starbound: Vanilla): https://youtu.be/Ph3YvqAp0qI
 
 -Arctic Battle 2/Penguin UFO Battle Theme (Starbound: Vanilla): https://youtu.be/68q9CI85h3w
 
 -Arctic Exploration 1 (Starbound: Vanilla): https://youtu.be/EyU68YMr6Vk
+
+-Ocean Battle (Starbound: Vanilla): https://youtu.be/4F1YSW1aTjk
 
 -Housecleaning (Starbound: Vanilla): https://youtu.be/uxWALjrjbio
 
