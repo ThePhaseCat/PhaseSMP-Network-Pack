@@ -1,42 +1,42 @@
 {
-	"arrival/line1/commiland":{
+	"line1/commiland":{
 		"sounds": [
-           "custom/arrival_line1_commiland"
+           "custom/line1/commiland"
 		]
     },
-	"arrival/line1/southphasetown":{
+	"line1/southphasetown":{
 		"sounds": [
-           "custom/arrival_line1_fieldland"
+           "custom/line1/fieldland"
 		]
     },
-	"arrival/line1/penguingrotto":{
+	"line1/penguingrotto":{
 		"sounds": [
-           "custom/arrival_line1_penguingrotto"
+           "custom/line1/penguingrotto"
 		]
     },
-	"arrival/line1/phasecave":{
+	"line1/phasecave":{
 		"sounds": [
-           "custom/arrival_line1_phasecave"
+           "custom/line1/phasecave"
 		]
     },
-	"arrival/line1/phasecave_alt":{
+	"line1/phasecave_alt":{
 		"sounds": [
-           "custom/arrival_line1_phasecave_alt"
+           "custom/line1/phasecave_alt"
 		]
     },
-	"arrival/line1/phasefarm":{
+	"line1/phasefarm":{
 		"sounds": [
-           "custom/arrival_line1_phasefarm"
+           "custom/line1/phasefarm"
 		]
     },
-	"arrival/line1/phasemall":{
+	"line1/phasemall":{
 		"sounds": [
-           "custom/arrival_line1_phasemall"
+           "custom/line1/phasemall"
 		]
     },
-	"arrival/line1/spawn":{
+	"line1/spawn":{
 		"sounds": [
-           "custom/arrival_line1_spawn"
+           "custom/line1/spawn"
 		]
     }
 }
