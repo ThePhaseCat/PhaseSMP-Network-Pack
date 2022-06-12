@@ -38,5 +38,25 @@
 		"sounds": [
            "custom/line1/spawn"
 		]
+    },
+	"line1/birchforest":{
+		"sounds": [
+           "custom/line1/birchforest"
+		]
+    },
+	"line1/slimefarm":{
+		"sounds": [
+           "custom/line1/slimefarm"
+		]
+    },
+	"line1/spawnlake":{
+		"sounds": [
+           "custom/line1/spawnlake"
+		]
+    },
+	"line1/traincastle":{
+		"sounds": [
+           "custom/line1/traincastle"
+		]
     }
 }
