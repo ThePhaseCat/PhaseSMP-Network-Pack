@@ -1,13 +1,3 @@
-## Line 1 West Extention Arrival Music (Almost final choices, some things may change before release).
-
--Coronet Highlands - Summit (Pokemon: Legends Arceus): https://youtu.be/Lg2VdSyHSRU (Could be used for trainb0y's base station>)
-
--Science Outpost (Starbound: Frackin Universe): https://youtu.be/br_4bLZBwUI (Could be used for slime farm station?)
-
--Aquatic Base Level 1 (Sonic 06): https://youtu.be/dEHuZpITceY (Could be used for birch forest station?)
-
--Through Traffic (Sonic Riders: Zero Gravity): https://youtu.be/Y0ZxiWUEiX4 (Could be used for station directly after spawn?)
-
 ## This section contains links for potential audio/music for any PhaseRail Lines. This is not a confirmation that any of these will show up; these are mearly suggestions and can be removed/tweaked at any moment in time. If these are used in any way, they will be removed from this list.
 
 -Worm Tunnel (Sonic Boom 3DS, too lazy to write out its massive title): https://youtu.be/J7-4UbTLsiQ
