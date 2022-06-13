@@ -1,5 +1,5 @@
-# PhaseSMP-Rail-Network-Pack
-A resource pack (currently only sounds) to be used on the PhaseSMP Rail Network
+# THIS BRANCH IS IN HEAVY DEV AND TESTING, PLEASE DO NOT USE AS AN ACTUAL RESOURCE PACK
+This is a resource pack used on the PhaseSMP, mainly on the PhaseSMP Rail Network (PhaseRail)
 
 - Features arrival music for every station on the network
 - Updated Minecart sounds to make them quieter
@@ -19,6 +19,9 @@ The sound names in this pack follow a simple formula that is easy to understand 
 
 For example:
 "arrival/line1/phasecave" plays the arrival music on Line 1 when reaching PhaseCave Station!
+
+# Credits
+ - Dark Mode Textures pulled from Vanilla Tweaks (https://vanillatweaks.net/picker/resource-packs/)
 
 # Boring Stuff
 
