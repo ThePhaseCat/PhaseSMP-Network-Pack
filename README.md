@@ -1,5 +1,5 @@
 # PhaseSMP Rail Network Resource Pack
-This is a resource pack used on the PhaseSMP, mainly on the PhaseSMP Rail Network (PhaseRail)
+This is a resource pack used on the PhaseSMP, mainly on the PhaseSMP Rail Network (PhaseRail) 
 
 - Features arrival music for every station on the network
 - Updated Minecart sounds to make them quieter
