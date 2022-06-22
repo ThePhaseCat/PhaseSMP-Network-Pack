@@ -35,3 +35,11 @@
 -The Radio Music (Portal 2): https://youtu.be/s-UFPhz2nZ0
 
 -Shining Sprinter (No game attatched to it): https://youtu.be/983ocD7xwBg
+
+-Harmony Square Station (Astral Chain): https://youtu.be/AWv8T5FsyzY
+
+-Ark Mall (Astral Chain): https://youtu.be/b81M5Q01uzE
+
+-Maison Forest: Midnight (Astral Chain): https://youtu.be/vjjyqJjy3zk
+
+-Emergency (Astral Chain): https://youtu.be/1jwA8U_7yXE
