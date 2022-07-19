@@ -58,5 +58,10 @@
 		"sounds": [
            "custom/line1/traincastle"
 		]
+    },
+		"railroad/railroadcrossing":{
+		"sounds": [
+           "custom/railroad/railroadcrossing"
+		]
     }
 }
