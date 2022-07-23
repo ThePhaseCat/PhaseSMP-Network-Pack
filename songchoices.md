@@ -1,45 +1,41 @@
 ## This section contains links for potential audio/music for any PhaseRail Lines. This is not a confirmation that any of these will show up; these are mearly suggestions and can be removed/tweaked at any moment in time. If these are used in any way, they will be removed from this list.
 
--Worm Tunnel (Sonic Boom 3DS, too lazy to write out its massive title): https://youtu.be/J7-4UbTLsiQ
+-Worm Tunnel (Sonic Boom 3DS): https://youtu.be/J7-4UbTLsiQ (To be used for an underground/cave station?)
 
--Jubilife Village (Pokemon: Legends Arceus): https://youtu.be/uMeBK_6hfdQ (Could be used for trainb0y's base station?)
+-Clan Warden Battle Theme (Pokemon: Legends Arceus): https://youtu.be/9E0rxb2GJOs (To be used for an underground/mountain station?)
 
--Wild Pokemon Battle Theme (Non-Alpha, Pokemon: Legends Arceus): https://youtu.be/HxVg6Qj9a7M
+-Disaster Looming: Battle Theme (Pokemon: Legends Arceus): https://youtu.be/sVXHY7BDjo0 (To be used in a desert/dry area?)
 
--Clan Warden Battle Theme (Pokemon: Legends Arceus): https://youtu.be/9E0rxb2GJOs
+-Palkia and Dialga Origin Form Battle Theme (Pokemon: Legends Arceus): https://youtu.be/9MO4IcSHWGw (To be used as part of a TTS Annoucement/Alert?)
 
--Noble Pokemon Battle Theme (Pokemon: Legends Arceus): https://youtu.be/n_r1EqrGgZs
+-Arctic Battle 3/Asra Nox Battle Theme (Starbound: Vanilla): https://youtu.be/Ph3YvqAp0qI (To be used for a lab/advanced area?)
 
--Disaster Looming (Could be used in a desert or ancient area, Pokemon: Legends Arceus): https://youtu.be/qM3QoDMMmwA
+-Arctic Battle 2/Penguin UFO Battle Theme (Starbound: Vanilla): https://youtu.be/68q9CI85h3w (To be used in a military area?)
 
--Disaster Looming: Battle Theme (Pokemon: Legends Arceus): https://youtu.be/sVXHY7BDjo0
+-The Peacekeepers (Starbound: Vanilla): https://youtu.be/OObdTmrqoss (To be used for a safe area?)
 
--Palkia and Dialga Origin Form Battle Theme (Pokemon: Legends Arceus): https://youtu.be/9MO4IcSHWGw
+-Dead or Alive (Starbound: Vanilla): https://youtu.be/qKXN2sg_1tA (To be used in a prison/locked-down area? Maybe Ancient City/Stronghold?)
 
--Legendary Pokemon Battle Theme (Pokemon: Legends Arceus): https://youtu.be/JTXOvSaBeDM
+-The Radio Music (Portal 2): https://youtu.be/s-UFPhz2nZ0 (To be used for resting areas at certain stations)
 
--Arctic Battle 3/Asra Nox Battle Theme (Starbound: Vanilla): https://youtu.be/Ph3YvqAp0qI
+-Shining Sprinter (No game attatched to it): https://youtu.be/983ocD7xwBg (To be used for an upbeat/important/happy area?)
 
--Arctic Battle 2/Penguin UFO Battle Theme (Starbound: Vanilla): https://youtu.be/68q9CI85h3w
+-Harmony Square Station (Astral Chain): https://youtu.be/AWv8T5FsyzY (To be used in a disaster/locked-down area?)
 
--Arctic Exploration 1 (Starbound: Vanilla): https://youtu.be/EyU68YMr6Vk
+-Maison Forest: Midnight (Astral Chain): https://youtu.be/vjjyqJjy3zk (To be used in a forest/underground area?)
 
--Ocean Battle (Starbound: Vanilla): https://youtu.be/4F1YSW1aTjk
+-Emergency (Astral Chain): https://youtu.be/1jwA8U_7yXE (To be used for a dangerous area? Nether/Stronghold?)
 
--Housecleaning (Starbound: Vanilla): https://youtu.be/uxWALjrjbio
+-Sea Bottom Segue (Sonic Lost World): https://youtu.be/3CR6kKsy_LA (To be used in an underwater area/resting area?)
 
--The Peacekeepers (Starbound: Vanilla): https://youtu.be/OObdTmrqoss
+-17 (Home): https://youtu.be/DhUieLpc16A (To be used for a lab/research area?)
 
--Dead or Alive (Starbound: Vanilla): https://youtu.be/qKXN2sg_1tA
+-Existentia (FWLR): https://youtu.be/Z9uxrzhLpJk (To be used for an important area?)
 
--The Radio Music (Portal 2): https://youtu.be/s-UFPhz2nZ0
+-Drippin' Flavor (Fortnite): https://youtu.be/HqF49XdC6_I (Literally to be used for a meme/ice area?)
 
--Shining Sprinter (No game attatched to it): https://youtu.be/983ocD7xwBg
+-Liberty City Theme (GTA Liberty City Stories): https://youtu.be/QIw-_JM90EY (To be used for a cool area?)
 
--Harmony Square Station (Astral Chain): https://youtu.be/AWv8T5FsyzY
+-Sapphire Sights Act 2 (SATFS): https://youtu.be/Y-kDxJ-mLHQ (To be used in a hilly area?)
 
--Ark Mall (Astral Chain): https://youtu.be/b81M5Q01uzE
-
--Maison Forest: Midnight (Astral Chain): https://youtu.be/vjjyqJjy3zk
-
--Emergency (Astral Chain): https://youtu.be/1jwA8U_7yXE
+-Launch Base Zone Act 2 - PROTOTYPE VERSION (Sonic 3): https://youtu.be/AK7sMZK48O0 (To be used in a happy setting?)
