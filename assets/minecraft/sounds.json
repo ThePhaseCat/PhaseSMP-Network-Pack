@@ -63,5 +63,10 @@
 		"sounds": [
            "custom/railroad/railroadcrossing"
 		]
+    },
+		"startingannoucement/line1/towards_slimefarm":{
+		"sounds": [
+           "custom/startingannoucement/line1/towards_slimefarm"
+		]
     }
 }
