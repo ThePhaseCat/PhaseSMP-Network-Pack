@@ -68,5 +68,10 @@
 		"sounds": [
            "custom/startingannoucement/line1/towards_slimefarm"
 		]
+    },
+		"resting/rest1":{
+		"sounds": [
+           "custom/resting/rest1"
+		]
     }
 }
