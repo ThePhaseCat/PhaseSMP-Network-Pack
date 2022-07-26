@@ -16,8 +16,6 @@
 
 -Dead or Alive (Starbound: Vanilla): https://youtu.be/qKXN2sg_1tA (To be used in a prison/locked-down area? Maybe Ancient City/Stronghold?)
 
--The Radio Music (Portal 2): https://youtu.be/s-UFPhz2nZ0 (To be used for resting areas at certain stations)
-
 -Shining Sprinter (No game attatched to it): https://youtu.be/983ocD7xwBg (To be used for an upbeat/important/happy area?)
 
 -Harmony Square Station (Astral Chain): https://youtu.be/AWv8T5FsyzY (To be used in a disaster/locked-down area?)
