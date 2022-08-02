@@ -32,6 +32,8 @@
 
 -Drippin' Flavor (Fortnite): https://youtu.be/HqF49XdC6_I (Literally to be used for a meme/ice area?)
 
+-Neco Arc Dilemma (Meow): https://youtu.be/XisJD8V1Rqw (for resting areas)
+
 -Liberty City Theme (GTA Liberty City Stories): https://youtu.be/QIw-_JM90EY (To be used for a cool area?)
 
 -Sapphire Sights Act 2 (SATFS): https://youtu.be/Y-kDxJ-mLHQ (To be used in a hilly area?)
