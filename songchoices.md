@@ -34,7 +34,7 @@
 
 -Emergency (Astral Chain): https://youtu.be/1jwA8U_7yXE (To be used for a dangerous area? Nether/Stronghold?)
 
--Sea Bottom Segue (Sonic Lost World): https://youtu.be/3CR6kKsy_LA (To be used in an underwater area/resting area?)
+-Sea Bottom Segue (Sonic Lost World): https://youtu.be/3CR6kKsy_LA (To be used in an underwater area)
 
 -17 (Home): https://youtu.be/DhUieLpc16A (To be used for a lab/research area?)
 
