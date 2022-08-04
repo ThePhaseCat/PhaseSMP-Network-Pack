@@ -73,5 +73,10 @@
 		"sounds": [
            "custom/resting/rest1"
 		]
+    }.
+		"resting/rest2":{
+		"sounds": [
+           "custom/resting/rest2"
+		]
     }
 }
