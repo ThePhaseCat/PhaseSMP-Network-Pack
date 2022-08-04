@@ -16,3 +16,4 @@
 ## Resting Area Music Credits
 - rest1.ogg - Radio Loop - Portal (https://youtu.be/jcxeENnM0yI)
 - rest2.ogg - Neco Arc Dilemma (meow) - No Game Attatched (https://youtu.be/XisJD8V1Rqw)
+- rest3.ogg/rest4.ogg - Sea Bottom Segue - Sonic Lost World (https://youtu.be/3CR6kKsy_LA)
