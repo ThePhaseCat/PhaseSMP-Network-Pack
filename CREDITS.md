@@ -12,3 +12,7 @@
 - slimefarm.ogg - Science Outpost - Starbound: Frackin' Universe (https://youtu.be/br_4bLZBwUI)
 - spawnlake.ogg - Through Traffic - Sonic Riders: Zero Gravity (https://youtu.be/Y0ZxiWUEiX4)
 - traincastle.ogg - Coronet Highlands (Summit) - Pokemon Legends: Arceus (https://youtu.be/Lg2VdSyHSRU)
+
+## Resting Area Music Credits
+- rest1.ogg - Radio Loop - Portal (https://youtu.be/jcxeENnM0yI)
+- rest2.ogg - Neco Arc Dilemma (meow) - No Game Attatched (https://youtu.be/XisJD8V1Rqw)
