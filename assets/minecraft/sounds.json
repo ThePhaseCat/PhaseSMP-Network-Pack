@@ -69,6 +69,11 @@
            "custom/startingannoucement/line1/towards_slimefarm"
 		]
     },
+		"startingannoucement/line1/towards_coastlighthouse":{
+		"sounds": [
+           "custom/startingannoucement/line1/towards_coastlighthouse"
+		]
+    },
 		"resting/rest1":{
 		"sounds": [
            "custom/resting/rest1"
