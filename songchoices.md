@@ -1,13 +1,3 @@
-## Potential Music for PhaseRail Line 1 East Extension
-
--Sapphire Sights Act 2 (SATFS): https://youtu.be/Y-kDxJ-mLHQ (East Phase-Town Station? Happy vibes, goes well with a "town" theme)
-
--Liberty City Theme (GTA Liberty City Stories): https://youtu.be/QIw-_JM90EY (East Phase-Town Station? Supposed to be a beach/modern area, so this could fit?)
-
--Launch Base Zone Act 2 - PROTOTYPE VERSION (Sonic 3): https://youtu.be/AK7sMZK48O0 (Lighthouse Station TEMP NAME? Fits well with an "end of line" theme)
-
--Drippin' Flavor (Fortnite): https://youtu.be/HqF49XdC6_I (Lighthouse Station TEMP NAME? Fits well with a lighthouse/beach theme)
-
 ## This section contains links for potential audio/music for any PhaseRail Lines. This is not a confirmation that any of these will show up; these are mearly suggestions and can be removed/tweaked at any moment in time. If these are used in any way, they will be removed from this list.
 
 -Worm Tunnel (Sonic Boom 3DS): https://youtu.be/J7-4UbTLsiQ (To be used for an underground/cave station?)
@@ -39,3 +29,5 @@
 -17 (Home): https://youtu.be/DhUieLpc16A (To be used for a lab/research area?)
 
 -Existentia (FWLR): https://youtu.be/Z9uxrzhLpJk (To be used for an important area?)
+
+-Launch Base Zone Act 2 PROTOTYPE VERSION (Sonic 3): https://youtu.be/AK7sMZK48O0  (Unsure which area it could go in)
