@@ -59,6 +59,16 @@
            "custom/line1/traincastle"
 		]
     },
+	"line1/eastpt":{
+		"sounds": [
+           "custom/line1/eastpt"
+		]
+    },
+	"line1/coastlighthouse":{
+		"sounds": [
+           "custom/line1/coastlighthouse"
+		]
+    },
 		"railroad/railroadcrossing":{
 		"sounds": [
            "custom/railroad/railroadcrossing"
