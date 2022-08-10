@@ -7,6 +7,7 @@ This is a resource pack used on the PhaseSMP, mainly on the PhaseSMP Rail Networ
 # How to run/use
 
 - Download the PhaseSMP Rail Network Sound Pack as a .zip or as a folder! (Clone Project)
+- Extract the .zip, revealing a new folder. Opening that should reveal another folder that leads into the actual resource pack! (Should be called PhaseSMP-Rail-Network-Pack-VERSION NUMBER HERE)
 - Place in your Minecraft Resource Pack Folder
 - Load it up and enjoy the custom sounds (must use a command block or commands to do)
 
