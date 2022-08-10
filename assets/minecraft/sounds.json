@@ -59,9 +59,49 @@
            "custom/line1/traincastle"
 		]
     },
+	"line1/eastpt":{
+		"sounds": [
+           "custom/line1/eastpt"
+		]
+    },
+	"line1/coastlighthouse":{
+		"sounds": [
+           "custom/line1/coastlighthouse"
+		]
+    },
 		"railroad/railroadcrossing":{
 		"sounds": [
            "custom/railroad/railroadcrossing"
+		]
+    },
+		"startingannoucement/line1/towards_slimefarm":{
+		"sounds": [
+           "custom/startingannoucement/line1/towards_slimefarm"
+		]
+    },
+		"startingannoucement/line1/towards_coastlighthouse":{
+		"sounds": [
+           "custom/startingannoucement/line1/towards_coastlighthouse"
+		]
+    },
+		"resting/rest1":{
+		"sounds": [
+           "custom/resting/rest1"
+		]
+    },
+		"resting/rest2":{
+		"sounds": [
+           "custom/resting/rest2"
+		]
+    },
+		"resting/rest3":{
+		"sounds": [
+           "custom/resting/rest3"
+		]
+    },
+		"resting/rest4":{
+		"sounds": [
+           "custom/resting/rest4"
 		]
     }
 }

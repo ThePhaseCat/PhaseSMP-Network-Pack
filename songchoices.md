@@ -16,8 +16,6 @@
 
 -Dead or Alive (Starbound: Vanilla): https://youtu.be/qKXN2sg_1tA (To be used in a prison/locked-down area? Maybe Ancient City/Stronghold?)
 
--The Radio Music (Portal 2): https://youtu.be/s-UFPhz2nZ0 (To be used for resting areas at certain stations)
-
 -Shining Sprinter (No game attatched to it): https://youtu.be/983ocD7xwBg (To be used for an upbeat/important/happy area?)
 
 -Harmony Square Station (Astral Chain): https://youtu.be/AWv8T5FsyzY (To be used in a disaster/locked-down area?)
@@ -26,16 +24,10 @@
 
 -Emergency (Astral Chain): https://youtu.be/1jwA8U_7yXE (To be used for a dangerous area? Nether/Stronghold?)
 
--Sea Bottom Segue (Sonic Lost World): https://youtu.be/3CR6kKsy_LA (To be used in an underwater area/resting area?)
+-Sea Bottom Segue (Sonic Lost World): https://youtu.be/3CR6kKsy_LA (To be used in an underwater area)
 
 -17 (Home): https://youtu.be/DhUieLpc16A (To be used for a lab/research area?)
 
 -Existentia (FWLR): https://youtu.be/Z9uxrzhLpJk (To be used for an important area?)
 
--Drippin' Flavor (Fortnite): https://youtu.be/HqF49XdC6_I (Literally to be used for a meme/ice area?)
-
--Liberty City Theme (GTA Liberty City Stories): https://youtu.be/QIw-_JM90EY (To be used for a cool area?)
-
--Sapphire Sights Act 2 (SATFS): https://youtu.be/Y-kDxJ-mLHQ (To be used in a hilly area?)
-
--Launch Base Zone Act 2 - PROTOTYPE VERSION (Sonic 3): https://youtu.be/AK7sMZK48O0 (To be used in a happy setting?)
+-Launch Base Zone Act 2 PROTOTYPE VERSION (Sonic 3): https://youtu.be/AK7sMZK48O0  (Unsure which area it could go in)
