@@ -1,3 +1,9 @@
+## Stuff for nightclub 👀
+
+-Main Nightclub Music: https://youtu.be/xuB_KNNonFY (Fortnite)
+
+-Alt Nightclub Music: https://youtu.be/MvfcxXCdSks (Fortnite)
+
 ## This section contains links for potential audio/music for any PhaseRail Lines. This is not a confirmation that any of these will show up; these are mearly suggestions and can be removed/tweaked at any moment in time. If these are used in any way, they will be removed from this list.
 
 -Worm Tunnel (Sonic Boom 3DS): https://youtu.be/J7-4UbTLsiQ (To be used for an underground/cave station?)
@@ -31,3 +37,7 @@
 -Existentia (FWLR): https://youtu.be/Z9uxrzhLpJk (To be used for an important area?)
 
 -Launch Base Zone Act 2 PROTOTYPE VERSION (Sonic 3): https://youtu.be/AK7sMZK48O0  (Unsure which area it could go in)
+
+-Factorio Gameplay Trailer (Factorio): https://youtu.be/pWi2Oevq0LA (Factory/Industrial area?)
+
+-Special Stage (Sonic Triple Trouble 16 Bit): https://youtu.be/A3CtIlTjPyg (Happy area?)
