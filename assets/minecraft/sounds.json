@@ -108,5 +108,20 @@
 		"sounds": [
            "custom/resting/rest5"
 		]
+    },
+		"resting/rest6":{
+		"sounds": [
+           "custom/resting/rest6"
+		]
+    },
+		"resting/rest7":{
+		"sounds": [
+           "custom/resting/rest7"
+		]
+    },
+		"resting/rest8":{
+		"sounds": [
+           "custom/resting/rest8"
+		]
     }
 }
