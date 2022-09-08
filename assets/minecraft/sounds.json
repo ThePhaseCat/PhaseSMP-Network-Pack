@@ -103,5 +103,10 @@
 		"sounds": [
            "custom/resting/rest4"
 		]
+    },
+		"resting/rest5":{
+		"sounds": [
+           "custom/resting/rest5"
+		]
     }
 }
