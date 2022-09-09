@@ -1,8 +1,18 @@
 ## Stuff for nightclub 👀
 
--Main Nightclub Music: https://youtu.be/xuB_KNNonFY (Fortnite)
+-Nightclub Music 1 (In BTWN Music Pack): https://youtu.be/MvfcxXCdSks (Fortnite)
 
--Alt Nightclub Music: https://youtu.be/MvfcxXCdSks (Fortnite)
+-Nightclub Music 2 (Say it Proud Music Pack): https://youtu.be/9BS8xzqX5Ag (Fortnite)
+
+-Nightclub Music 3 (Palkia and Dialga Origin Form Battle Theme): https://youtu.be/9MO4IcSHWGw (Pokemon: Legends Arceus)
+
+-Nightclub Music 4 (Guzma Battle Theme): https://youtu.be/REC7daXbjho (Pokemon: Sun and Moon)
+
+-Nightclub Music 5 (Marnie Battle Theme): https://youtu.be/QCG98StBDfQ (Pokemon: Sword and Shield)
+
+-Nightclub Music 6 (Deoxys Battle Theme): https://youtu.be/azjEe8oVh3Y (Pokemon: ORAS)
+
+-Nightclub Music 7 (Galarian Legendary Birds Battle Theme): https://youtu.be/X4Y0Rkc_VAU (Pokemon: Sword and Shield)
 
 ## This section contains links for potential audio/music for any PhaseRail Lines. This is not a confirmation that any of these will show up; these are mearly suggestions and can be removed/tweaked at any moment in time. If these are used in any way, they will be removed from this list.
 
@@ -11,8 +21,6 @@
 -Clan Warden Battle Theme (Pokemon: Legends Arceus): https://youtu.be/9E0rxb2GJOs (To be used for an underground/mountain station?)
 
 -Disaster Looming: Battle Theme (Pokemon: Legends Arceus): https://youtu.be/sVXHY7BDjo0 (To be used in a desert/dry area?)
-
--Palkia and Dialga Origin Form Battle Theme (Pokemon: Legends Arceus): https://youtu.be/9MO4IcSHWGw (To be used as part of a TTS Annoucement/Alert?)
 
 -Arctic Battle 3/Asra Nox Battle Theme (Starbound: Vanilla): https://youtu.be/Ph3YvqAp0qI (To be used for a lab/advanced area?)
 
@@ -40,4 +48,4 @@
 
 -Factorio Gameplay Trailer (Factorio): https://youtu.be/pWi2Oevq0LA (Factory/Industrial area?)
 
--Special Stage (Sonic Triple Trouble 16 Bit): https://youtu.be/A3CtIlTjPyg (Happy area?)
+-Galarian Legendary Birds Battle Theme (Pokemon: Sword and Shield): https://youtu.be/X4Y0Rkc_VAU (Happy area?)
