@@ -49,3 +49,19 @@
 -Factorio Gameplay Trailer (Factorio): https://youtu.be/pWi2Oevq0LA (Factory/Industrial area?)
 
 -Galarian Legendary Birds Battle Theme (Pokemon: Sword and Shield): https://youtu.be/X4Y0Rkc_VAU (Happy area?)
+
+-Splatfest Battle 1 (Splatoon 3): https://youtu.be/LOw5-bNoutg (Happy/Important area?)
+
+-Model 2 BIOS (Sega CD): https://youtu.be/Q7UxwtkNSjI (Industrial area?)
+
+-Neco-Arc's Theme (Melty Blood Type Lumina): https://youtu.be/wcpQ3aarHRU (Cat-themed area?)
+
+-Atomic Destroyer Act 1 (Sonic Triple Trouble: 16 bit): https://youtu.be/gT6aErhPj9Y (Nether?)
+
+-Atomic Destroyer Act 2 (Sonic Triple Trouble: 16 bit): https://youtu.be/txqBSrKN4s0 (Nether?)
+
+-Kronos Island Remix (Sonic Frontiers): https://youtu.be/EX2wmj-Wxio (Important area?)
+
+-Chapter 3 Season 3 Battle Pass Purchase Music (Fortnite): https://youtu.be/RqVZdHQep4E (Tropical Area?)
+
+-Moutaintop Secrets (Mario and Luigi: Paper Jam): https://youtu.be/5fV3NH2pnuY (Mountain/Mysterious area?)
