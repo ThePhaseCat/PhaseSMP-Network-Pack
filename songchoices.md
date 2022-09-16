@@ -1,19 +1,3 @@
-## Stuff for nightclub 👀
-
--Nightclub Music 1 (In BTWN Music Pack): https://youtu.be/MvfcxXCdSks (Fortnite)
-
--Nightclub Music 2 (Say it Proud Music Pack): https://youtu.be/9BS8xzqX5Ag (Fortnite)
-
--Nightclub Music 3 (Palkia and Dialga Origin Form Battle Theme): https://youtu.be/9MO4IcSHWGw (Pokemon: Legends Arceus)
-
--Nightclub Music 4 (Guzma Battle Theme): https://youtu.be/REC7daXbjho (Pokemon: Sun and Moon)
-
--Nightclub Music 5 (Marnie Battle Theme): https://youtu.be/QCG98StBDfQ (Pokemon: Sword and Shield)
-
--Nightclub Music 6 (Deoxys Battle Theme): https://youtu.be/azjEe8oVh3Y (Pokemon: ORAS)
-
--Nightclub Music 7 (Galarian Legendary Birds Battle Theme): https://youtu.be/X4Y0Rkc_VAU (Pokemon: Sword and Shield)
-
 ## Potential Music for Nether Services (Choices are not final by any means, names are nowhere near final) (Question Marks are songs that will be used in Nether Services, but unsure of which station they'll go to)
 
 -Dead or Alive (Starbound: Vanilla): https://youtu.be/qKXN2sg_1tA (Nether Fortress Station)
