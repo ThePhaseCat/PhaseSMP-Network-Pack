@@ -25,10 +25,10 @@
 - rest8.ogg - Special Stage - Sonic Triple Trouble (16-Bit) (https://youtu.be/A3CtIlTjPyg)
 
 ## Nightclub Music Credits
--nightclub1.ogg - In BTWN Music Pack - Fortnite (https://youtu.be/MvfcxXCdSks)
--nightclub2.ogg - Say it Proud Music Pack - Fortnite (https://youtu.be/9BS8xzqX5Ag)
--nightclub3.ogg - Palkia and Dialga Origin Form Battle Theme - Pokemon: Legends Arceus (https://youtu.be/9MO4IcSHWGw)
--nightclub4.ogg - Guzma Battle Theme - Pokemon: Sun and Moon (https://youtu.be/REC7daXbjho)
--nightclub5.ogg - Marnie Battle Theme - Pokemon: Sword and Shield (https://youtu.be/QCG98StBDfQ)
--nightclub6.ogg - Deoxys Battle Theme - Pokemon: ORAS (https://youtu.be/azjEe8oVh3Y)
--nightclub7.ogg - Galarian Legendary Birds Battle Theme - Pokemon: Sword and Shield (https://youtu.be/X4Y0Rkc_VAU)
+- nightclub1.ogg - In BTWN Music Pack - Fortnite (https://youtu.be/MvfcxXCdSks)
+- nightclub2.ogg - Say it Proud Music Pack - Fortnite (https://youtu.be/9BS8xzqX5Ag)
+- nightclub3.ogg - Palkia and Dialga Origin Form Battle Theme - Pokemon: Legends Arceus (https://youtu.be/9MO4IcSHWGw)
+- nightclub4.ogg - Guzma Battle Theme - Pokemon: Sun and Moon (https://youtu.be/REC7daXbjho)
+- nightclub5.ogg - Marnie Battle Theme - Pokemon: Sword and Shield (https://youtu.be/QCG98StBDfQ)
+- nightclub6.ogg - Deoxys Battle Theme - Pokemon: ORAS (https://youtu.be/azjEe8oVh3Y)
+- nightclub7.ogg - Galarian Legendary Birds Battle Theme - Pokemon: Sword and Shield (https://youtu.be/X4Y0Rkc_VAU)
