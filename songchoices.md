@@ -20,10 +20,6 @@
 
 -Space Port (Sonic Forces): https://youtu.be/SPrXxc5EHag (Kryox/Wave Portal Station)
 
-## New Resting Music
-
--Shark Bytes (Splatoon 2): https://youtu.be/YrGSrxDRAXU
-
 ## This section contains links for potential audio/music for any PhaseRail Lines. This is not a confirmation that any of these will show up; these are mearly suggestions and can be removed/tweaked at any moment in time. If these are used in any way, they will be removed from this list.
 
 -Clan Warden Battle Theme (Pokemon: Legends Arceus): https://youtu.be/9E0rxb2GJOs (To be used for an underground/mountain station?)
