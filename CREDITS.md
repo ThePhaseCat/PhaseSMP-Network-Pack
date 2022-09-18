@@ -23,6 +23,8 @@
 - rest6.ogg - Splatfest Battle 2 - Splatoon 3 (https://youtu.be/j_MMsXRI5GU)
 - rest7.ogg - Stars In The Sky (Nightcore) - Sonic 2 (Movie) (https://youtu.be/PiPPpQLy0ho)
 - rest8.ogg - Special Stage - Sonic Triple Trouble (16-Bit) (https://youtu.be/A3CtIlTjPyg)
+- rest9.ogg - Shark Bytes - Splatoon 2 (https://youtu.be/YrGSrxDRAXU)
+- rest10.ogg - Starfall Islands Theme - Sonic Frontiers (https://youtu.be/nAQNEb5Q6kM)
 
 ## Nightclub Music Credits
 - nightclub1.ogg - In BTWN Music Pack - Fortnite (https://youtu.be/MvfcxXCdSks)
