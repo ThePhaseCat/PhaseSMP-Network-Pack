@@ -124,6 +124,11 @@
            "custom/resting/rest8"
 		]
     },
+		"resting/rest9":{
+		"sounds": [
+           "custom/resting/rest9"
+		]
+    },
 		"other/nightclub/nightclub1":{
 		"sounds": [
            "custom/other/nightclub/nightclub1"
