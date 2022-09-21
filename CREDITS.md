@@ -19,3 +19,18 @@
 - rest1.ogg - Radio Loop - Portal (https://youtu.be/jcxeENnM0yI)
 - rest2.ogg - Neco Arc Dilemma (meow) - No Game Attatched (https://youtu.be/XisJD8V1Rqw)
 - rest3.ogg/rest4.ogg - Sea Bottom Segue - Sonic Lost World (https://youtu.be/3CR6kKsy_LA)
+- rest5.ogg - Vandalize (ONE OK ROCK) - Sonic Frontiers (https://youtu.be/5U1jO4KL60Y)
+- rest6.ogg - Splatfest Battle 2 - Splatoon 3 (https://youtu.be/j_MMsXRI5GU)
+- rest7.ogg - Stars In The Sky (Nightcore) - Sonic 2 (Movie) (https://youtu.be/PiPPpQLy0ho)
+- rest8.ogg - Special Stage - Sonic Triple Trouble (16-Bit) (https://youtu.be/A3CtIlTjPyg)
+- rest9.ogg - Shark Bytes - Splatoon 2 (https://youtu.be/YrGSrxDRAXU)
+- rest10.ogg - Starfall Islands Theme - Sonic Frontiers (https://youtu.be/nAQNEb5Q6kM)
+
+## Nightclub Music Credits
+- nightclub1.ogg - In BTWN Music Pack - Fortnite (https://youtu.be/MvfcxXCdSks)
+- nightclub2.ogg - Say it Proud Music Pack - Fortnite (https://youtu.be/9BS8xzqX5Ag)
+- nightclub3.ogg - Palkia and Dialga Origin Form Battle Theme - Pokemon: Legends Arceus (https://youtu.be/9MO4IcSHWGw)
+- nightclub4.ogg - Guzma Battle Theme - Pokemon: Sun and Moon (https://youtu.be/REC7daXbjho)
+- nightclub5.ogg - Marnie Battle Theme - Pokemon: Sword and Shield (https://youtu.be/QCG98StBDfQ)
+- nightclub6.ogg - Deoxys Battle Theme - Pokemon: ORAS (https://youtu.be/azjEe8oVh3Y)
+- nightclub7.ogg - Galarian Legendary Birds Battle Theme - Pokemon: Sword and Shield (https://youtu.be/X4Y0Rkc_VAU)

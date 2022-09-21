@@ -103,5 +103,75 @@
 		"sounds": [
            "custom/resting/rest4"
 		]
+    },
+		"resting/rest5":{
+		"sounds": [
+           "custom/resting/rest5"
+		]
+    },
+		"resting/rest6":{
+		"sounds": [
+           "custom/resting/rest6"
+		]
+    },
+		"resting/rest7":{
+		"sounds": [
+           "custom/resting/rest7"
+		]
+    },
+		"resting/rest8":{
+		"sounds": [
+           "custom/resting/rest8"
+		]
+    },
+		"resting/rest9":{
+		"sounds": [
+           "custom/resting/rest9"
+		]
+    },
+		"resting/rest10":{
+		"sounds": [
+           "custom/resting/rest10"
+		]
+    },
+		"other/nightclub/nightclub1":{
+		"sounds": [
+           "custom/other/nightclub/nightclub1"
+		]
+    },
+		"other/nightclub/nightclub2":{
+		"sounds": [
+           "custom/other/nightclub/nightclub2"
+		]
+    },
+		"other/nightclub/nightclub3":{
+		"sounds": [
+           "custom/other/nightclub/nightclub3"
+		]
+    },
+		"other/nightclub/nightclub4":{
+		"sounds": [
+           "custom/other/nightclub/nightclub4"
+		]
+    },
+		"other/nightclub/nightclub5":{
+		"sounds": [
+           "custom/other/nightclub/nightclub5"
+		]
+    },
+		"other/nightclub/nightclub6":{
+		"sounds": [
+           "custom/other/nightclub/nightclub6"
+		]
+    },
+		"other/nightclub/nightclub7":{
+		"sounds": [
+           "custom/other/nightclub/nightclub7"
+		]
+    },
+		"other/nightclub/nightclubfull":{
+		"sounds": [
+           "custom/other/nightclub/nightclubfull"
+		]
     }
 }
