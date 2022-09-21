@@ -168,5 +168,10 @@
 		"sounds": [
            "custom/other/nightclub/nightclub7"
 		]
+    },
+		"other/nightclub/nightclubfull":{
+		"sounds": [
+           "custom/other/nightclub/nightclubfull"
+		]
     }
 }
