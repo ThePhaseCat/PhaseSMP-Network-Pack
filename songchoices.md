@@ -20,7 +20,7 @@
 
 -Space Port (Sonic Forces): https://youtu.be/SPrXxc5EHag (Kryox/Wave Portal Station)
 
--PUT MUSIC FOR JUNGLE/MANGROVE BIOME STATION HERE
+-Space Queen's Promo (Sonic X-Treme): https://youtu.be/k7m6DTw6Ot4 (Jungle/Mangrove Portal Station)
 
 # Line N2 Potential Music #
 
@@ -67,3 +67,5 @@
 -Mystic Mine Act 1 (Sonic Hoshi): https://youtu.be/yGKMc12DYPw (Mine area?)
 
 -Sky Sanctuary (Sonic Frontiers): https://youtu.be/85Tqnk0OcUk (VERY LOW QUALITY THO SO WAIT UNTIL RELEASE?)
+
+-Title Screen (Sonic CD Prototype): https://youtu.be/XCvBjTshVMA (Techno Area?)
