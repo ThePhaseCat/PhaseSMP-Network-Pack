@@ -1,24 +1,36 @@
 ## Potential Music for Nether Services (Choices are not final by any means, names are nowhere near final) (Question Marks are songs that will be used in Nether Services, but unsure of which station they'll go to)
 
--Dead or Alive (Starbound: Vanilla): https://youtu.be/qKXN2sg_1tA (Nether Fortress Station)
+# Line N3 Potential Music #
 
--Emergency (Astral Chain): https://youtu.be/1jwA8U_7yXE (Stronghold Station)
-
--Launch Base Zone Act 2 PROTOTYPE VERSION (Sonic 3): https://youtu.be/AK7sMZK48O0  (Wither Skeleton Farm Station)
-
--Atomic Destroyer Act 1 (Sonic Triple Trouble: 16 bit): https://youtu.be/gT6aErhPj9Y (Guardian Farm Station)
-
--Atomic Destroyer Act 2 (Sonic Triple Trouble: 16 bit): https://youtu.be/txqBSrKN4s0 (Phase-Farm Portal Station?)
+-Factorio Gameplay Trailer (Factorio): https://youtu.be/pWi2Oevq0LA (Hoglin Farm Station)
 
 -Worm Tunnel (Sonic Boom 3DS): https://youtu.be/J7-4UbTLsiQ (Bedrock Roof Station)
 
 -Shining Sprinter (No game attatched to it): https://youtu.be/983ocD7xwBg (Nether Hub Station)
 
--17 (Home): https://youtu.be/DhUieLpc16A (Slime Farm Portal Station?)
+# Line N1 Potential Music #
 
--Kronos Island Remix (Sonic Frontiers): https://youtu.be/EX2wmj-Wxio (10k Village Portal Station)
+-Launch Base Zone Act 2 PROTOTYPE VERSION (Sonic 3): https://youtu.be/AK7sMZK48O0  (Wither Skeleton Farm Station)
+
+-Atomic Destroyer Act 1 (Sonic Triple Trouble: 16 bit): https://youtu.be/gT6aErhPj9Y (Guardian Farm Station)
+
+-Atomic Destroyer Act 2 (Sonic Triple Trouble: 16 bit): https://youtu.be/txqBSrKN4s0 (Phase-Farm Portal Station)
+
+-Shining Sprinter (No game attatched to it): https://youtu.be/983ocD7xwBg (Nether Hub Station)
 
 -Space Port (Sonic Forces): https://youtu.be/SPrXxc5EHag (Kryox/Wave Portal Station)
+
+-PUT MUSIC FOR JUNGLE/MANGROVE BIOME STATION HERE
+
+# Line N2 Potential Music #
+
+-17 (Home): https://youtu.be/DhUieLpc16A (Slime Farm Portal Station?)
+
+-Shining Sprinter (No game attatched to it): https://youtu.be/983ocD7xwBg (Nether Hub Station)
+
+-Emergency (Astral Chain): https://youtu.be/1jwA8U_7yXE (Stronghold Station)
+
+-Kronos Island Remix (Sonic Frontiers): https://youtu.be/EX2wmj-Wxio (10k Village Portal Station)
 
 ## This section contains links for potential audio/music for any PhaseRail Lines. This is not a confirmation that any of these will show up; these are mearly suggestions and can be removed/tweaked at any moment in time. If these are used in any way, they will be removed from this list.
 
@@ -39,8 +51,6 @@
 -Sea Bottom Segue (Sonic Lost World): https://youtu.be/3CR6kKsy_LA (To be used in an underwater area)
 
 -Existentia (FWLR): https://youtu.be/Z9uxrzhLpJk (To be used for an important area?)
-
--Factorio Gameplay Trailer (Factorio): https://youtu.be/pWi2Oevq0LA (Factory/Industrial area?)
 
 -Galarian Legendary Birds Battle Theme (Pokemon: Sword and Shield): https://youtu.be/X4Y0Rkc_VAU (Happy area?)
 
