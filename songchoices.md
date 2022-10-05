@@ -1,4 +1,4 @@
-## Potential Music for Nether Services (Choices are not final by any means, names are nowhere near final) (Question Marks are songs that will be used in Nether Services, but unsure of which station they'll go to)
+## Potential Music for Nether Services (Choices are basically final)
 
 # Line N3 Potential Music #
 
@@ -20,7 +20,9 @@
 
 -Space Port (Sonic Forces): https://youtu.be/SPrXxc5EHag (Kryox/Wave Portal Station)
 
--Space Queen's Promo (Sonic X-Treme): https://youtu.be/k7m6DTw6Ot4 (Jungle/Mangrove Portal Station)
+-Stardust Speedway Bad Future (Sonic CD US): https://youtu.be/lxwPTc37G2I (Jungle Portal Station)
+
+-Space Queen's Promo (Sonic X-Treme): https://youtu.be/k7m6DTw6Ot4 (Mangrove Portal Station)
 
 # Line N2 Potential Music #
 
