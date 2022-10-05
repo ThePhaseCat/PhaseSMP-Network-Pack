@@ -1,11 +1,11 @@
 # PhaseSMP Network Resource Pack
-This is a resource pack used on the PhaseSMP, with use mainly on the PhaseSMP's Rail Network (PhaseRail)
+This is a resource pack used on the PhaseSMP, with use mainly on PhaseSMP's growing Rail Network (PhaseRail)
 
 - Features arrival music and Starting TTS for every station on the PhaseRail Network!
 - New Resting Music for when you need to relax and AFK somewhere!
 - New Railroad sounds to enhance immersion, such as Railroad Crossing sounds!
 - Quieter Minecarts!
-- New music for the Nightclub on the PhaseSMP!
+- And more!
 
 # How to run/use
 
