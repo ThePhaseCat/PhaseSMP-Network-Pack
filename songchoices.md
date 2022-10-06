@@ -71,3 +71,9 @@
 -Sky Sanctuary (Sonic Frontiers): https://youtu.be/85Tqnk0OcUk (VERY LOW QUALITY THO SO WAIT UNTIL RELEASE?)
 
 -Title Screen (Sonic CD Prototype): https://youtu.be/XCvBjTshVMA (Techno Area?)
+
+-bee_boss.ogg (Haunted Chocolatier): https://youtu.be/jvkyoezQXlA (Bee farm?)
+
+-Early Gameplay Footage Song #1 (Haunted Chocolatier): https://youtu.be/4MOnPJTApI8 (Chill area?)
+
+-Can't Sleep Alone At Night (Leotrix): https://youtu.be/83QxWfA6gFk (Techno area?)
