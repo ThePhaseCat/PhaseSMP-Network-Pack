@@ -134,41 +134,6 @@
            "custom/resting/rest10"
 		]
     },
-		"other/nightclub/nightclub1":{
-		"sounds": [
-           "custom/other/nightclub/nightclub1"
-		]
-    },
-		"other/nightclub/nightclub2":{
-		"sounds": [
-           "custom/other/nightclub/nightclub2"
-		]
-    },
-		"other/nightclub/nightclub3":{
-		"sounds": [
-           "custom/other/nightclub/nightclub3"
-		]
-    },
-		"other/nightclub/nightclub4":{
-		"sounds": [
-           "custom/other/nightclub/nightclub4"
-		]
-    },
-		"other/nightclub/nightclub5":{
-		"sounds": [
-           "custom/other/nightclub/nightclub5"
-		]
-    },
-		"other/nightclub/nightclub6":{
-		"sounds": [
-           "custom/other/nightclub/nightclub6"
-		]
-    },
-		"other/nightclub/nightclub7":{
-		"sounds": [
-           "custom/other/nightclub/nightclub7"
-		]
-    },
 		"other/nightclub/nightclubfull":{
 		"sounds": [
            "custom/other/nightclub/nightclubfull"
