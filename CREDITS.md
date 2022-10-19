@@ -27,10 +27,11 @@
 - rest10.ogg - Starfall Islands Theme - Sonic Frontiers (https://youtu.be/nAQNEb5Q6kM)
 
 ## Nightclub Music Credits
-- nightclub1.ogg - In BTWN Music Pack - Fortnite (https://youtu.be/MvfcxXCdSks)
-- nightclub2.ogg - Say it Proud Music Pack - Fortnite (https://youtu.be/9BS8xzqX5Ag)
-- nightclub3.ogg - Palkia and Dialga Origin Form Battle Theme - Pokemon: Legends Arceus (https://youtu.be/9MO4IcSHWGw)
-- nightclub4.ogg - Guzma Battle Theme - Pokemon: Sun and Moon (https://youtu.be/REC7daXbjho)
-- nightclub5.ogg - Marnie Battle Theme - Pokemon: Sword and Shield (https://youtu.be/QCG98StBDfQ)
-- nightclub6.ogg - Deoxys Battle Theme - Pokemon: ORAS (https://youtu.be/azjEe8oVh3Y)
-- nightclub7.ogg - Galarian Legendary Birds Battle Theme - Pokemon: Sword and Shield (https://youtu.be/X4Y0Rkc_VAU)
+  Because Nightclub Music is all in one file, I'll simply list the music that plays in the order that is heard in the full audio file!
+- In BTWN Music Pack - Fortnite (https://youtu.be/MvfcxXCdSks)
+- Say it Proud Music Pack - Fortnite (https://youtu.be/9BS8xzqX5Ag)
+- Palkia and Dialga Origin Form Battle Theme - Pokemon: Legends Arceus (https://youtu.be/9MO4IcSHWGw)
+- Guzma Battle Theme - Pokemon: Sun and Moon (https://youtu.be/REC7daXbjho)
+- Marnie Battle Theme - Pokemon: Sword and Shield (https://youtu.be/QCG98StBDfQ)
+- Deoxys Battle Theme - Pokemon: ORAS (https://youtu.be/azjEe8oVh3Y)
+- Galarian Legendary Birds Battle Theme - Pokemon: Sword and Shield (https://youtu.be/X4Y0Rkc_VAU)
