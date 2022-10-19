@@ -6,7 +6,7 @@
 
 -Worm Tunnel (Sonic Boom 3DS): https://youtu.be/J7-4UbTLsiQ (Bedrock Roof Station)
 
--Shining Sprinter (No game attatched to it): https://youtu.be/983ocD7xwBg (Nether Hub Station)
+-Sky Sanctuary (Sonic Frontiers): https://youtu.be/85Tqnk0OcUk (Nether Hub Station, WE CAN USE THIS NOW YESSSS)
 
 # Line N1 Potential Music #
 
@@ -16,9 +16,7 @@
 
 -Atomic Destroyer Act 2 (Sonic Triple Trouble: 16 bit): https://youtu.be/txqBSrKN4s0 (Phase-Farm Portal Station)
 
--Shining Sprinter (No game attatched to it): https://youtu.be/983ocD7xwBg (Nether Hub Station)
-
--Space Port (Sonic Forces): https://youtu.be/SPrXxc5EHag (Kryox/Wave Portal Station)
+-Sky Sanctuary (Sonic Frontiers): https://youtu.be/85Tqnk0OcUk (Nether Hub Station, WE CAN USE THIS NOW YESSSS)
 
 -Stardust Speedway Bad Future (Sonic CD US): https://youtu.be/lxwPTc37G2I (Jungle Portal Station)
 
@@ -28,11 +26,11 @@
 
 -17 (Home): https://youtu.be/DhUieLpc16A (Slime Farm Portal Station?)
 
--Shining Sprinter (No game attatched to it): https://youtu.be/983ocD7xwBg (Nether Hub Station)
+-Sky Sanctuary (Sonic Frontiers): https://youtu.be/85Tqnk0OcUk (Nether Hub Station, WE CAN USE THIS NOW YESSSS)
 
 -Emergency (Astral Chain): https://youtu.be/1jwA8U_7yXE (Stronghold Station)
 
--Kronos Island Remix (Sonic Frontiers): https://youtu.be/EX2wmj-Wxio (10k Village Portal Station)
+-Kronos Island Remix (Sonic Frontiers): https://youtu.be/EX2wmj-Wxio (10k Village Portal Station, maybe change the audio to the new Kronos Island music that released?)
 
 ## This section contains links for potential audio/music for any PhaseRail Lines. This is not a confirmation that any of these will show up; these are mearly suggestions and can be removed/tweaked at any moment in time. If these are used in any way, they will be removed from this list.
 
@@ -68,8 +66,6 @@
 
 -Mystic Mine Act 1 (Sonic Hoshi): https://youtu.be/yGKMc12DYPw (Mine area?)
 
--Sky Sanctuary (Sonic Frontiers): https://youtu.be/85Tqnk0OcUk (VERY LOW QUALITY THO SO WAIT UNTIL RELEASE?)
-
 -Title Screen (Sonic CD Prototype): https://youtu.be/XCvBjTshVMA (Techno Area?)
 
 -bee_boss.ogg (Haunted Chocolatier): https://youtu.be/jvkyoezQXlA (Bee farm?)
@@ -77,3 +73,7 @@
 -Early Gameplay Footage Song #1 (Haunted Chocolatier): https://youtu.be/4MOnPJTApI8 (Chill area?)
 
 -Can't Sleep Alone At Night (Leotrix): https://youtu.be/83QxWfA6gFk (Techno area?)
+
+-Space Port (Sonic Forces): https://youtu.be/SPrXxc5EHag (Port/Dock?)
+
+-Shining Sprinter (No game attatched to it): https://youtu.be/983ocD7xwBg (Unsure of where this could be used)
