@@ -74,6 +74,11 @@
            "custom/railroad/railroadcrossing"
 		]
     },
+		"railroad/ticket_scan":{
+		"sounds": [
+           "custom/railroad/ticket_scan"
+		]
+    },
 		"startingannoucement/line1/towards_slimefarm":{
 		"sounds": [
            "custom/startingannoucement/line1/towards_slimefarm"
