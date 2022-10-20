@@ -77,3 +77,11 @@
 -Space Port (Sonic Forces): https://youtu.be/SPrXxc5EHag (Port/Dock?)
 
 -Shining Sprinter (No game attatched to it): https://youtu.be/983ocD7xwBg (Unsure of where this could be used)
+
+-Sky Fortress Act 2 (Sonic 4: Episode 2): https://youtu.be/iKK2IhwVWoA (Factory area?)
+
+-Death Egg mk.ll Act 1 (Sonic 4: Episode 2): https://youtu.be/OatHU0_SQa8 (Factory area?)
+
+-Death Egg: Egg Gate (Sonic Forces): https://youtu.be/6ioram6c9dw (High-risk/space area?)
+
+-Wave Ocean, The Water's Edge (Sonic 06): https://youtu.be/ggqTSLydqr0 (Beach area?)
