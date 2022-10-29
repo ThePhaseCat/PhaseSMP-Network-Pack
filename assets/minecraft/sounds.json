@@ -69,6 +69,11 @@
            "custom/line1/coastlighthouse"
 		]
     },
+	"shared/netherhub":{
+		"sounds": [
+           "custom/shared/netherhub"
+		]
+    },
 		"railroad/railroadcrossing":{
 		"sounds": [
            "custom/railroad/railroadcrossing"
