@@ -30,7 +30,7 @@
 
 -Emergency (Astral Chain): https://youtu.be/1jwA8U_7yXE (Stronghold Station)
 
--Kronos Island Remix (Sonic Frontiers): https://youtu.be/EX2wmj-Wxio (10k Village Portal Station, maybe change the audio to the new Kronos Island music that released?)
+-Kronos Island Theme (Sonic Frontiers): https://youtu.be/0A46afjporI (10k Village Portal Station)
 
 ## This section contains links for potential audio/music for any PhaseRail Lines. This is not a confirmation that any of these will show up; these are mearly suggestions and can be removed/tweaked at any moment in time. If these are used in any way, they will be removed from this list.
 
