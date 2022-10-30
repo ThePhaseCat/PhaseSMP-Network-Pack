@@ -69,6 +69,56 @@
            "custom/line1/coastlighthouse"
 		]
     },
+	"n1/guardian":{
+		"sounds": [
+           "custom/n1/guardian"
+		]
+    },
+	"n1/jungle_portal":{
+		"sounds": [
+           "custom/n1/jungle_portal"
+		]
+    },
+	"n1/mangrove_portal":{
+		"sounds": [
+           "custom/n1/mangrove_portal"
+		]
+    },
+	"n1/phase_farm":{
+		"sounds": [
+           "custom/n1/phase_farm"
+		]
+    },
+	"n1/wither":{
+		"sounds": [
+           "custom/n1/wither"
+		]
+    },
+	"n2/10_village":{
+		"sounds": [
+           "custom/n2/10_village"
+		]
+    },
+	"n2/slime_farm":{
+		"sounds": [
+           "custom/n2/slime_farm"
+		]
+    },
+	"n2/stronghold":{
+		"sounds": [
+           "custom/n2/stronghold"
+		]
+    },
+	"n3/bedrock":{
+		"sounds": [
+           "custom/n3/bedrock"
+		]
+    },
+	"n3/hoglin":{
+		"sounds": [
+           "custom/n3/hoglin"
+		]
+    },
 	"shared/netherhub":{
 		"sounds": [
            "custom/shared/netherhub"
