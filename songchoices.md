@@ -18,7 +18,7 @@
 
 -Sky Sanctuary (Sonic Frontiers): https://youtu.be/85Tqnk0OcUk (Nether Hub Station, WE CAN USE THIS NOW YESSSS)
 
--Stardust Speedway Bad Future (Sonic CD US): https://youtu.be/lxwPTc37G2I (Jungle Portal Station)
+-Stardust Speedway Bad Future (Sonic CD US): https://youtu.be/XUW8QXUQGRA (Jungle Portal Station)
 
 -Space Queen's Promo (Sonic X-Treme): https://youtu.be/k7m6DTw6Ot4 (Mangrove Portal Station)
 
