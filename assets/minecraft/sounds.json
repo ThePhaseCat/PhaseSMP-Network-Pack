@@ -134,6 +134,11 @@
            "custom/railroad/ticket_scan"
 		]
     },
+		"railroad/netherhubtransfer":{
+		"sounds": [
+           "custom/railroad/netherhubtransfer"
+		]
+    },
 		"startingannoucement/line1/towards_slimefarm":{
 		"sounds": [
            "custom/startingannoucement/line1/towards_slimefarm"
@@ -142,6 +147,31 @@
 		"startingannoucement/line1/towards_coastlighthouse":{
 		"sounds": [
            "custom/startingannoucement/line1/towards_coastlighthouse"
+		]
+    },
+		"startingannoucement/nether/n1towardsmangrove":{
+		"sounds": [
+           "custom/startingannoucement/nether/n1towardsmangrove"
+		]
+    },
+		"startingannoucement/nether/n1towardswither":{
+		"sounds": [
+           "custom/startingannoucement/nether/n1towardswither"
+		]
+    },
+		"startingannoucement/nether/n2towards10k":{
+		"sounds": [
+           "custom/startingannoucement/nether/n2towards10k"
+		]
+    },
+		"startingannoucement/nether/n2towardsslime":{
+		"sounds": [
+           "custom/startingannoucement/nether/n2towardsslime"
+		]
+    },
+		"startingannoucement/nether/n3towardshoglin":{
+		"sounds": [
+           "custom/startingannoucement/nether/n3towardsnether"
 		]
     },
 		"resting/rest1":{
