@@ -36,7 +36,7 @@
 
 ## Shared Music Credits
 
-- netherhub.ogg - Sky Sanctuary/Cyberspace 1-2 - Sonic Frontiers (https://youtu.be/85Tqnk0OcUk)
+- netherhub.ogg - Sky Sanctuary/Cyberspace 1-2 - Sonic Frontiers (https://youtu.be/htKJY6ifXBY)
 
 ## Resting Area Music Credits
 - rest1.ogg - Radio Loop - Portal (https://youtu.be/jcxeENnM0yI)
