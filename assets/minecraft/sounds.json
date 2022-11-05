@@ -171,6 +171,11 @@
     },
 		"startingannoucement/nether/n3towardshoglin":{
 		"sounds": [
+           "custom/startingannoucement/nether/n3towardshoglin"
+		]
+    },
+		"startingannoucement/nether/n3towardsnether":{
+		"sounds": [
            "custom/startingannoucement/nether/n3towardsnether"
 		]
     },
