@@ -69,9 +69,74 @@
            "custom/line1/coastlighthouse"
 		]
     },
+	"n1/guardian":{
+		"sounds": [
+           "custom/n1/guardian"
+		]
+    },
+	"n1/jungle_portal":{
+		"sounds": [
+           "custom/n1/jungle_portal"
+		]
+    },
+	"n1/mangrove_portal":{
+		"sounds": [
+           "custom/n1/mangrove_portal"
+		]
+    },
+	"n1/phase_farm":{
+		"sounds": [
+           "custom/n1/phase_farm"
+		]
+    },
+	"n1/wither":{
+		"sounds": [
+           "custom/n1/wither"
+		]
+    },
+	"n2/10_village":{
+		"sounds": [
+           "custom/n2/10_village"
+		]
+    },
+	"n2/slime_farm":{
+		"sounds": [
+           "custom/n2/slime_farm"
+		]
+    },
+	"n2/stronghold":{
+		"sounds": [
+           "custom/n2/stronghold"
+		]
+    },
+	"n3/bedrock":{
+		"sounds": [
+           "custom/n3/bedrock"
+		]
+    },
+	"n3/hoglin":{
+		"sounds": [
+           "custom/n3/hoglin"
+		]
+    },
+	"shared/netherhub":{
+		"sounds": [
+           "custom/shared/netherhub"
+		]
+    },
 		"railroad/railroadcrossing":{
 		"sounds": [
            "custom/railroad/railroadcrossing"
+		]
+    },
+		"railroad/ticket_scan":{
+		"sounds": [
+           "custom/railroad/ticket_scan"
+		]
+    },
+		"railroad/netherhubtransfer":{
+		"sounds": [
+           "custom/railroad/netherhubtransfer"
 		]
     },
 		"startingannoucement/line1/towards_slimefarm":{
@@ -82,6 +147,36 @@
 		"startingannoucement/line1/towards_coastlighthouse":{
 		"sounds": [
            "custom/startingannoucement/line1/towards_coastlighthouse"
+		]
+    },
+		"startingannoucement/nether/n1towardsmangrove":{
+		"sounds": [
+           "custom/startingannoucement/nether/n1towardsmangrove"
+		]
+    },
+		"startingannoucement/nether/n1towardswither":{
+		"sounds": [
+           "custom/startingannoucement/nether/n1towardswither"
+		]
+    },
+		"startingannoucement/nether/n2towards10k":{
+		"sounds": [
+           "custom/startingannoucement/nether/n2towards10k"
+		]
+    },
+		"startingannoucement/nether/n2towardsslime":{
+		"sounds": [
+           "custom/startingannoucement/nether/n2towardsslime"
+		]
+    },
+		"startingannoucement/nether/n3towardshoglin":{
+		"sounds": [
+           "custom/startingannoucement/nether/n3towardshoglin"
+		]
+    },
+		"startingannoucement/nether/n3towardsnether":{
+		"sounds": [
+           "custom/startingannoucement/nether/n3towardsnether"
 		]
     },
 		"resting/rest1":{
@@ -132,41 +227,6 @@
 		"resting/rest10":{
 		"sounds": [
            "custom/resting/rest10"
-		]
-    },
-		"other/nightclub/nightclub1":{
-		"sounds": [
-           "custom/other/nightclub/nightclub1"
-		]
-    },
-		"other/nightclub/nightclub2":{
-		"sounds": [
-           "custom/other/nightclub/nightclub2"
-		]
-    },
-		"other/nightclub/nightclub3":{
-		"sounds": [
-           "custom/other/nightclub/nightclub3"
-		]
-    },
-		"other/nightclub/nightclub4":{
-		"sounds": [
-           "custom/other/nightclub/nightclub4"
-		]
-    },
-		"other/nightclub/nightclub5":{
-		"sounds": [
-           "custom/other/nightclub/nightclub5"
-		]
-    },
-		"other/nightclub/nightclub6":{
-		"sounds": [
-           "custom/other/nightclub/nightclub6"
-		]
-    },
-		"other/nightclub/nightclub7":{
-		"sounds": [
-           "custom/other/nightclub/nightclub7"
 		]
     },
 		"other/nightclub/nightclubfull":{
