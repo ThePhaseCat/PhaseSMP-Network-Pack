@@ -149,9 +149,9 @@
            "custom/startingannoucement/line1/towards_coastlighthouse"
 		]
     },
-		"startingannoucement/nether/n1towardsmangrove":{
+		"startingannoucement/nether/n1towardsjungle":{
 		"sounds": [
-           "custom/startingannoucement/nether/n1towardsmangrove"
+           "custom/startingannoucement/nether/n1towardsjungle"
 		]
     },
 		"startingannoucement/nether/n1towardswither":{
