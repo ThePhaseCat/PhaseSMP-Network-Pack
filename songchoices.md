@@ -51,3 +51,7 @@
 -Death Egg: Egg Gate (Sonic Forces): https://youtu.be/6ioram6c9dw (High-risk/space area?)
 
 -Wave Ocean, The Water's Edge (Sonic 06): https://youtu.be/ggqTSLydqr0 (Beach area?)
+
+-Team Star Boss Battle Theme (Pokemon: Scarlet and Violet): https://youtu.be/MUGzVsLnXb8 (Compound area/rock area?)
+
+-Inlet Grotto Battle Theme (Pokemon: Scarlet and Violet): https://youtu.be/61RiYAGprqw (Cave area?)
