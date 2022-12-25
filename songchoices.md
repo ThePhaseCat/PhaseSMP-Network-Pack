@@ -51,3 +51,17 @@
 -Death Egg: Egg Gate (Sonic Forces): https://youtu.be/6ioram6c9dw (High-risk/space area?)
 
 -Wave Ocean, The Water's Edge (Sonic 06): https://youtu.be/ggqTSLydqr0 (Beach area?)
+
+-Team Star Boss Battle Theme (Pokemon: Scarlet and Violet): https://youtu.be/MUGzVsLnXb8 (Compound area/rock area?)
+
+-Inlet Grotto Battle Theme (Pokemon: Scarlet and Violet): https://youtu.be/61RiYAGprqw (Cave area?)
+
+-Gym Leader Battle Theme (Pokemon: Scarlet and Violet): https://youtu.be/aWS1zAswv_g (Jungle/Desert area?)
+
+-Arven's Theme (Pokemon: Scarlet and Violet): https://youtu.be/RqxId4bG7T0 (Future/Techno area?)
+
+-Underground Desert (Terraria): https://youtu.be/07RSUhz6EVo (Underground Desert area?)
+
+-Underground Ice (Terraria): https://youtu.be/cYPgRwuAO4I (Underground Snow area?)
+
+-Morning Rain (Terraira): https://youtu.be/CFr5rYfzgaI (Chill area?)
