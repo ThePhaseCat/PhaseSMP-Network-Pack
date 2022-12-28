@@ -139,14 +139,14 @@
            "custom/railroad/netherhubtransfer"
 		]
     },
-		"startingannoucement/line1/towards_slimefarm":{
+		"startingannoucement/line1/towards_icecove":{
 		"sounds": [
-           "custom/startingannoucement/line1/towards_slimefarm"
+           "custom/startingannoucement/line1/towards_icecove"
 		]
     },
-		"startingannoucement/line1/towards_coastlighthouse":{
+		"startingannoucement/line1/towards_coastlight":{
 		"sounds": [
-           "custom/startingannoucement/line1/towards_coastlighthouse"
+           "custom/startingannoucement/line1/towards_coastlight"
 		]
     },
 		"startingannoucement/nether/n1towardsjungle":{
