@@ -1,10 +1,3 @@
-## Line 1 Extension Choices (Subject to Change)
--Clan Warden Battle Theme (Pokemon: Legends Arceus): https://youtu.be/9E0rxb2GJOs (Slime River West Station)
-
--Mystic Mine Act 1 (Sonic Hoshi): https://youtu.be/yGKMc12DYPw (Swamp West Station)
-
--Arven's Theme (Pokemon: Scarlet and Violet): https://youtu.be/RqxId4bG7T0 (Ice Cove Station)
-
 ## Line 2 Audio Choices (Very Subject to Change)
 
 -Arven's Theme (Pokemon: Scarlet and Violet): https://youtu.be/RqxId4bG7T0 (Ice Cove Station)
