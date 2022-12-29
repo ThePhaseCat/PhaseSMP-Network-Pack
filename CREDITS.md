@@ -13,7 +13,9 @@
 - spawnlake.ogg - Through Traffic - Sonic Riders: Zero Gravity (https://youtu.be/Y0ZxiWUEiX4)
 - traincastle.ogg - Coronet Highlands (Summit) - Pokemon Legends: Arceus (https://youtu.be/Lg2VdSyHSRU)
 - eastpt.ogg - Sapphire Sights Act 1 - SATFS (https://youtu.be/Y-kDxJ-mLHQ)
-- coastlighthouse - Drippin' Flavor Emote - Fortnite (https://youtu.be/HqF49XdC6_I)
+- coastlighthouse.ogg - Drippin' Flavor Emote - Fortnite (https://youtu.be/HqF49XdC6_I)
+- swamp_west.ogg - Mystic Mine Act 1 - Sonic Hoshi (https://youtu.be/yGKMc12DYPw)
+- slime_river_west.ogg - Clan Warden Battle Theme - Pokemon: Legends Arceus (https://youtu.be/9E0rxb2GJOs)
 
 ## Line N1 - Arrival Music Credits
 
@@ -36,7 +38,8 @@
 
 ## Shared Music Credits
 
-- netherhub.ogg - Sky Sanctuary/Cyberspace 1-2 - Sonic Frontiers (https://youtu.be/htKJY6ifXBY)
+- netherhub.ogg - Flowing (Cyber Space 1-2) - Sonic Frontiers (https://youtu.be/htKJY6ifXBY)
+- ice_cove.ogg - Arven's Theme - Pokemon: Scarlet and Violet (https://youtu.be/RqxId4bG7T0)
 
 ## Resting Area Music Credits
 - rest1.ogg - Radio Loop - Portal (https://youtu.be/jcxeENnM0yI)
