@@ -69,6 +69,16 @@
            "custom/line1/coastlighthouse"
 		]
     },
+	"line1/slime_river_west":{
+		"sounds": [
+           "custom/line1/slime_river_west"
+		]
+    },
+	"line1/swamp_west":{
+		"sounds": [
+           "custom/line1/swamp_west"
+		]
+    },
 	"n1/guardian":{
 		"sounds": [
            "custom/n1/guardian"
@@ -122,6 +132,11 @@
 	"shared/netherhub":{
 		"sounds": [
            "custom/shared/netherhub"
+		]
+    },
+	"shared/ice_cove":{
+		"sounds": [
+           "custom/shared/ice_cove"
 		]
     },
 		"railroad/railroadcrossing":{
