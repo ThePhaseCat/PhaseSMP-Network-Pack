@@ -4,19 +4,9 @@
            "custom/line1/commiland"
 		]
     },
-	"line1/southphasetown":{
-		"sounds": [
-           "custom/line1/fieldland"
-		]
-    },
 	"line1/penguingrotto":{
 		"sounds": [
            "custom/line1/penguingrotto"
-		]
-    },
-	"line1/phasecave":{
-		"sounds": [
-           "custom/line1/phasecave"
 		]
     },
 	"line1/phasecave_alt":{
@@ -27,16 +17,6 @@
 	"line1/phasefarm":{
 		"sounds": [
            "custom/line1/phasefarm"
-		]
-    },
-	"line1/phasemall":{
-		"sounds": [
-           "custom/line1/phasemall"
-		]
-    },
-	"line1/spawn":{
-		"sounds": [
-           "custom/line1/spawn"
 		]
     },
 	"line1/birchforest":{
@@ -52,11 +32,6 @@
 	"line1/spawnlake":{
 		"sounds": [
            "custom/line1/spawnlake"
-		]
-    },
-	"line1/traincastle":{
-		"sounds": [
-           "custom/line1/traincastle"
 		]
     },
 	"line1/eastpt":{
@@ -137,6 +112,31 @@
 	"shared/ice_cove":{
 		"sounds": [
            "custom/shared/ice_cove"
+		]
+    },
+	"shared/phasecave":{
+		"sounds": [
+           "custom/shared/phasecave"
+		]
+    },
+	"shared/southphasetown":{
+		"sounds": [
+           "custom/shared/southphasetown"
+		]
+    },
+	"shared/traincastle":{
+		"sounds": [
+           "custom/shared/traincastle"
+		]
+    },
+	"shared/spawn":{
+		"sounds": [
+           "custom/shared/spawn"
+		]
+    },
+	"shared/phasemall":{
+		"sounds": [
+           "custom/shared/phasemall"
 		]
     },
 		"railroad/railroadcrossing":{
