@@ -54,6 +54,46 @@
            "custom/line1/swamp_west"
 		]
     },
+	"line2/dark_forest_cover":{
+		"sounds": [
+           "custom/line2/dark_forest_cover"
+		]
+    },
+	"line2/ken_manor":{
+		"sounds": [
+           "custom/line2/ken_manor"
+		]
+    },
+	"line2/kr_cove":{
+		"sounds": [
+           "custom/line2/kr_cove"
+		]
+    },
+	"line2/phaserail_hq":{
+		"sounds": [
+           "custom/line2/phaserail_hq"
+		]
+    },
+	"line2/slime_river_east":{
+		"sounds": [
+           "custom/line2/slime_river_east"
+		]
+    },
+	"line2/spruce_grove":{
+		"sounds": [
+           "custom/line2/spruce_grove"
+		]
+    },
+	"line2/wave_bay":{
+		"sounds": [
+           "custom/line2/wave_bay"
+		]
+    },
+	"line2/west_phase_town":{
+		"sounds": [
+           "custom/line2/west_phase_town"
+		]
+    },
 	"n1/guardian":{
 		"sounds": [
            "custom/n1/guardian"
