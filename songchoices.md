@@ -16,7 +16,7 @@
 
 -Obsidian Fieldlands (Version 2) (Pokemon Legends: Arceus): https://youtu.be/kLHj0z3VZZs (South Phase-Town Station)
 
--Title Screen (Sonic CD Prototype): https://youtu.be/XCvBjTshVMA (Kennedy Manor Station)
+-Title Screen (Sonic CD Prototype): https://www.youtube.com/watch?v=zu4-hseE9DQ (Kennedy Manor Station)
 
 -Wave Ocean, The Water's Edge (Sonic 06): https://youtu.be/ggqTSLydqr0 (Wave Bay Station)
 
