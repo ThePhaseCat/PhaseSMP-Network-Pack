@@ -194,6 +194,16 @@
            "custom/railroad/netherhubtransfer"
 		]
     },
+		"railroad/south_phase_town_transfer":{
+		"sounds": [
+           "custom/railroad/south_phase_town_transfer"
+		]
+    },
+		"railroad/traincastle_transfer":{
+		"sounds": [
+           "custom/railroad/traincastle_transfer"
+		]
+    },
 		"startingannoucement/line1/towards_icecove":{
 		"sounds": [
            "custom/startingannoucement/line1/towards_icecove"
@@ -202,6 +212,16 @@
 		"startingannoucement/line1/towards_coastlight":{
 		"sounds": [
            "custom/startingannoucement/line1/towards_coastlight"
+		]
+    },
+		"startingannoucement/line2/line2towardsicecove":{
+		"sounds": [
+           "custom/startingannoucement/line2/line2towardsicecove"
+		]
+    },
+		"startingannoucement/line2/line2towardskyroxcove":{
+		"sounds": [
+           "custom/startingannoucement/line2/line2towardskyroxcove"
 		]
     },
 		"startingannoucement/nether/n1towardsjungle":{
