@@ -1,27 +1,3 @@
-## Line 2 Audio Choices (Very Subject to Change)
-
--Arven's Theme (Pokemon: Scarlet and Violet): https://youtu.be/RqxId4bG7T0 (Ice Cove Station)
-
--Maison Forest: Midnight (Astral Chain): https://youtu.be/vjjyqJjy3zk (Slime River East Station)
-
--Disaster Looming: Battle Theme (Pokemon: Legends Arceus): https://youtu.be/sVXHY7BDjo0 (Dark Forest Cover Station)
-
--Coronet Highlands (Summit) (Pokemon Legends: Arceus): https://youtu.be/Lg2VdSyHSRU (Train's Castle Station)
-
--Early Gameplay Footage Song #1 (Haunted Chocolatier): https://youtu.be/4MOnPJTApI8 (Spruce Grove Station)
-
--Existentia (FWLR): https://youtu.be/Z9uxrzhLpJk (West Phase-Town Station)
-
--Model 2 BIOS (Sega CD): https://youtu.be/Q7UxwtkNSjI (PhaseRail HQ Station) (VERY UNSURE ABOUT THIS ONE)
-
--Obsidian Fieldlands (Version 2) (Pokemon Legends: Arceus): https://youtu.be/kLHj0z3VZZs (South Phase-Town Station)
-
--Title Screen (Sonic CD Prototype): https://www.youtube.com/watch?v=zu4-hseE9DQ (Kennedy Manor Station)
-
--Wave Ocean, The Water's Edge (Sonic 06): https://youtu.be/ggqTSLydqr0 (Wave Bay Station)
-
--Chapter 3 Season 3 Battle Pass Purchase Music (Fortnite): https://youtu.be/RqVZdHQep4E (Kryox Cove Station)
-
 ## Resting Audio Stuff (move later to credits)
 
 -Morning Rain (Terraira): https://youtu.be/CFr5rYfzgaI 
