@@ -1,16 +1,18 @@
 # PhaseSMP Network Pack
-This is a resource pack used on the PhaseSMP, with use mainly on PhaseSMP's growing Rail Network (PhaseRail). This resource pack helps support the PhaseSMP, and overall make it a more enjoyable time for all players!
+This is a resource pack used on the PhaseSMP, with use mainly on PhaseSMP's growing Rail Network (PhaseRail). This resource pack aims to make things more "realistic" and also change some textures to better fit the PhaseSMP.
 
+## The current stable release is v2.0, The current beta release is v2.1
 
 # Some of the features include:
-- Features arrival music and Starting TTS for every station on the PhaseRail Network!
-- New Resting Music for when you need to relax and AFK somewhere!
-- New Railroad sounds to enhance immersion, such as Railroad Crossing sounds!
-- Quieter Minecarts!
-- And more!
+- Arrival music for every station on the PhaseRail Network!
+- Starting TTS at the start of every line!
+- Transfer TTS at select stations
+- Resting Music for when you need to relax and AFK somewhere!
+- Railroad sounds to enhance immersion, such as Railroad Crossing and Ticket Scanning sounds!
+- Quieter Minecarts with new sounds!
+- And much more coming in the future!
 
 # How to run/use
-
 - Download the PhaseSMP Rail Network Pack by going to the latest release and downloading the source!
 - Extract, revealing a new folder. (We'll call this the Pack)
 - Place the pack in your Minecraft Resource Pack Folder, wherever that is!
