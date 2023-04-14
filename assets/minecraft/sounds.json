@@ -204,6 +204,16 @@
            "custom/railroad/traincastle_transfer"
 		]
     },
+		"railroad/o_to_n":{
+		"sounds": [
+           "custom/railroad/O_to_n"
+		]
+    },
+		"railroad/n_to_o":{
+		"sounds": [
+           "custom/railroad/n_to_o"
+		]
+    },
 		"startingannoucement/line1/towards_icecove":{
 		"sounds": [
            "custom/startingannoucement/line1/towards_icecove"
