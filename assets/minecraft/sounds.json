@@ -206,7 +206,7 @@
     },
 		"railroad/o_to_n":{
 		"sounds": [
-           "custom/railroad/O_to_n"
+           "custom/railroad/o_to_n"
 		]
     },
 		"railroad/n_to_o":{
