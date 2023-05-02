@@ -47,3 +47,13 @@
 -Underground Desert (Terraria): https://youtu.be/07RSUhz6EVo (Underground Desert area?)
 
 -Test Music (Fortnite: Save the World): https://youtube.com/watch?v=gjATx3b3BmM&si=EnSIkaIECMiOmarE (Important/Dangerous area?)
+
+-Space Walk (Honkai: Star Rail): https://youtu.be/-vU1CLsGdAQ (Safe/Calm area?)
+
+-Science Fiction (Honkai: Star Rail): https://youtu.be/MGVSYn0XVaM (Science/Techno area?)
+
+-Scattered and Lost (Celeste): https://youtu.be/0etenwnI1wo (Mystery/spooky area?)
+
+-Resurrections (Celeste): https://youtu.be/1rwAvUvvQzQ (Mystery area?)
+
+-the amazing theme from tears of the kingdom trailer: https://youtu.be/Cdn3IAbgME4 (yes)
