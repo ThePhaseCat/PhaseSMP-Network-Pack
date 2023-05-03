@@ -35,7 +35,8 @@ For example:
 
 # Credits
  - Dark Mode Textures pulled from Vanilla Tweaks (https://vanillatweaks.net/picker/resource-packs/) :)
- - Audio/Music Credits are located in a different file due to the amount of Audio/Music used in this pack. All of these credits are located in the CREDITS.md file!
+ - Music Credits are located in a different file due to the amount of Music used in this pack. All of these credits are located in the CREDITS.md file!
+ - TTS audio provided using (https://ttsmp3.com/), the voice used is US English / Joanna!
 
 # Boring Stuff that probably no one cares about
 
