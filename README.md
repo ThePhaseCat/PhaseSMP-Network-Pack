@@ -1,7 +1,7 @@
 # PhaseSMP Network Pack
 This is a resource pack used on the PhaseSMP, with use mainly on PhaseSMP's growing Rail Network (PhaseRail). This resource pack aims to make things more "realistic" and also change some textures to better fit the PhaseSMP.
 
-## The current stable release is v2.0, The current beta release is v2.1
+## The current stable release is v2.3, The current beta release is N/A
 
 # Some of the features include:
 - Arrival music for every station on the PhaseRail Network!
@@ -34,8 +34,8 @@ For example:
 "startingannoucements/line1/towards_slimefarm" plays TTS that plays on Line 1 going towards Slime Farm Station
 
 # Credits
- - Dark Mode Textures pulled from Vanilla Tweaks (https://vanillatweaks.net/picker/resource-packs/) :)
  - Music Credits are located in a different file due to the amount of Music used in this pack. All of these credits are located in the CREDITS.md file!
+ - Dark Mode Textures pulled from Vanilla Tweaks (https://vanillatweaks.net/picker/resource-packs/) :)
  - TTS audio provided using (https://ttsmp3.com/), the voice used is US English / Joanna!
 
 # Boring Stuff that probably no one cares about
