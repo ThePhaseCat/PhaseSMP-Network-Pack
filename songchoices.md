@@ -34,7 +34,7 @@
 
 -Resurrections (Celeste): https://youtu.be/1rwAvUvvQzQ (Mystery area?)
 
--the amazing theme from tears of the kingdom trailer: https://youtu.be/Cdn3IAbgME4 (yes)
+-the amazing theme from tears of the kingdom trailer: https://youtu.be/S1me_BpgFuw (yes)
 
 -Mega City Ad TTM01 (Fortnite): https://youtu.be/nc-2e6nP5gg (Neon/Techno area?)
 
