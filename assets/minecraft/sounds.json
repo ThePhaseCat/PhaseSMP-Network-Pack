@@ -314,6 +314,21 @@
            "custom/resting/rest10"
 		]
     },
+		"resting/rest11":{
+		"sounds": [
+           "custom/resting/rest11"
+		]
+    },
+		"resting/rest12":{
+		"sounds": [
+           "custom/resting/rest12"
+		]
+    },
+		"resting/rest13":{
+		"sounds": [
+           "custom/resting/rest13"
+		]
+    },
 		"other/nightclub/nightclubfull":{
 		"sounds": [
            "custom/other/nightclub/nightclubfull"
