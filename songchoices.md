@@ -26,19 +26,13 @@
 
 -Test Music (Fortnite: Save the World): https://youtu.be/gjATx3b3BmM (Important/Dangerous area?)
 
--Space Walk (Honkai: Star Rail): https://youtu.be/-vU1CLsGdAQ (Safe/Calm area?)
-
 -Science Fiction (Honkai: Star Rail): https://youtu.be/MGVSYn0XVaM (Science/Techno area?)
 
 -Scattered and Lost (Celeste): https://youtu.be/0etenwnI1wo (Mystery/spooky area?)
 
 -Resurrections (Celeste): https://youtu.be/1rwAvUvvQzQ (Mystery area?)
 
--the amazing theme from tears of the kingdom trailer: https://youtu.be/Cdn3IAbgME4 (yes)
-
 -Mega City Ad TTM01 (Fortnite): https://youtu.be/nc-2e6nP5gg (Neon/Techno area?)
-
--Mega City Ad DD01 (Fortnite): https://youtu.be/QUCBWw8Tpyg (Neon/Techno area?)
 
 -Mega City Ad TL02 (Fortnite): https://youtu.be/IYCDeBUxm0Y (Neon/Techno area?)
 
