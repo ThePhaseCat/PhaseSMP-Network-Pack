@@ -56,6 +56,9 @@
 - rest8.ogg - Special Stage - Sonic Triple Trouble (16-Bit) (https://youtu.be/A3CtIlTjPyg)
 - rest9.ogg - Shark Bytes - Splatoon 2 (https://youtu.be/YrGSrxDRAXU)
 - rest10.ogg - Starfall Islands Theme - Sonic Frontiers (https://youtu.be/nAQNEb5Q6kM)
+- rest11.ogg - Space Walk - Honkai: Star Rail (https://youtu.be/-vU1CLsGdAQ) 
+- rest12.ogg - Mega City Ad DD01 - Fortnite (https://youtu.be/QUCBWw8Tpyg)
+- rest13.ogg - The amazing sax theme - Tears of the Kingdom (https://youtu.be/Cdn3IAbgME4)
 
 ## Nightclub Music Credits
   Because Nightclub Music is all in one file, I'll simply list the music that plays in the order that is heard in the full audio file!
