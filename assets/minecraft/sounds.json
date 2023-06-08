@@ -179,17 +179,17 @@
            "custom/shared/phasemall"
 		]
     },
-	"shared/pta/ptaT2":{
+	"shared/pta/pta_t2":{
 		"sounds": [
            "custom/shared/pta/pta_tts_t2"
 		]
     },
-	"shared/pta/ptaT1":{
+	"shared/pta/pta_t1":{
 		"sounds": [
            "custom/shared/pta/pta_tts_t1"
 		]
     },
-	"shared/pta/ptaAirport":{
+	"shared/pta/pta_airport":{
 		"sounds": [
            "custom/shared/pta/pta_tts_airport"
 		]
@@ -349,24 +349,24 @@
            "custom/other/nightclub/nightclubfull"
 		]
     },
-		"other/pats/patsAirport":{
+		"other/pats/pats_airport":{
 		"sounds": [
            "custom/other/pats/pats_tts_airport"
 		]
     },
-		"other/pats/patsStart":{
+		"other/pats/pats_start":{
 		"sounds": [
            "custom/other/pats/pats_start"
 		]
     },
-		"other/pats/patsT1":{
+		"other/pats/pats_t1":{
 		"sounds": [
            "custom/other/pats/pats_tts_t1"
 		]
     },
-		"other/pats/patsT2":{
+		"other/pats/pats_t2":{
 		"sounds": [
            "custom/other/pats/pats_tts_t2"
 		]
-    },
+    }
 }
