@@ -39,3 +39,10 @@
 -Mega City Ramen Ad (Fortnite): https://youtu.be/UCLVBQ1wZt4 (Neon/Techno area?)
 
 -Reach for the Summit (Celeste): https://youtu.be/t6cZn-Fvwa0 (Mountain/End/Important area? This could be used for a lot of audio)
+
+-Character Select (Sonic Dash 2: Sonic Boom): https://youtu.be/vx9ukDo0us4 (Important, airport area?)
+
+-In-Game (Sonic Dash 2: Sonic Boom): https://youtu.be/D-3k0i6WYjw (Important, airport area?)
+
+-Opening (Pokemon: Horizons Anime): https://youtu.be/5MrsNGy383s (Resting Audio)
+
