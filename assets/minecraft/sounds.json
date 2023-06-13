@@ -179,6 +179,21 @@
            "custom/shared/phasemall"
 		]
     },
+	"shared/pta/pta_t2":{
+		"sounds": [
+           "custom/shared/pta/pta_tts_t2"
+		]
+    },
+	"shared/pta/pta_t1":{
+		"sounds": [
+           "custom/shared/pta/pta_tts_t1"
+		]
+    },
+	"shared/pta/pta_airport":{
+		"sounds": [
+           "custom/shared/pta/pta_tts_airport"
+		]
+    },
 		"railroad/railroadcrossing":{
 		"sounds": [
            "custom/railroad/railroadcrossing"
@@ -314,9 +329,44 @@
            "custom/resting/rest10"
 		]
     },
+		"resting/rest11":{
+		"sounds": [
+           "custom/resting/rest11"
+		]
+    },
+		"resting/rest12":{
+		"sounds": [
+           "custom/resting/rest12"
+		]
+    },
+		"resting/rest13":{
+		"sounds": [
+           "custom/resting/rest13"
+		]
+    },
 		"other/nightclub/nightclubfull":{
 		"sounds": [
            "custom/other/nightclub/nightclubfull"
+		]
+    },
+		"other/pats/pats_airport":{
+		"sounds": [
+           "custom/other/pats/pats_tts_airport"
+		]
+    },
+		"other/pats/pats_start":{
+		"sounds": [
+           "custom/other/pats/pats_start"
+		]
+    },
+		"other/pats/pats_t1":{
+		"sounds": [
+           "custom/other/pats/pats_tts_t1"
+		]
+    },
+		"other/pats/pats_t2":{
+		"sounds": [
+           "custom/other/pats/pats_tts_t2"
 		]
     }
 }
