@@ -34,11 +34,11 @@
 
 -Resurrections (Celeste): https://youtu.be/1rwAvUvvQzQ (Mystery area?)
 
--Mega City Ad TTM01 (Fortnite): https://youtu.be/nc-2e6nP5gg (Neon/Techno area?)
+-Mega City Ad TTM01 (Fortnite): https://youtu.be/nc-2e6nP5gg (Neon/Techno area, North Phase-Town?)
 
--Mega City Ad TL02 (Fortnite): https://youtu.be/IYCDeBUxm0Y (Neon/Techno area?)
+-Mega City Ad TL02 (Fortnite): https://youtu.be/IYCDeBUxm0Y (Neon/Techno area, North Phase-Town?)
 
--Mega City Ramen Ad (Fortnite): https://youtu.be/UCLVBQ1wZt4 (Neon/Techno area?)
+-Mega City Ramen Ad (Fortnite): https://youtu.be/UCLVBQ1wZt4 (Neon/Techno area, North Phase-Town?)
 
 -Reach for the Summit (Celeste): https://youtu.be/t6cZn-Fvwa0 (Mountain/End/Important area? This could be used for a lot of audio)
 
@@ -48,3 +48,10 @@
 
 -Opening (Pokemon: Horizons Anime): https://youtu.be/5MrsNGy383s (Resting Audio)
 
+-Panic Puppet Zone Act 1 (Sonic 3D Blast Genesis): https://youtu.be/-b-4uPCbF34 (Important/happy area?)
+
+-Venus (Squiid): https://youtu.be/jNqbaSfNHlI (Neon/Techno area, North Phase-Town?)
+
+-Action Chain (Sonig Frontiers): https://youtu.be/gLBM3gkKZZk (Important, airport area? Also resting audio)
+
+-Imposters Win (Fornite): https://youtu.be/nCiF_Ac6Azk (Mystery/important area?)
