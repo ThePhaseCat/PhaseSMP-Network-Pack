@@ -164,6 +164,26 @@
            "custom/line_e/espawn"
 		]
     },
+	"line_e/tts/tts_eexit":{
+		"sounds": [
+           "custom/line_e/tts/tts_eexit"
+		]
+    },
+	"line_e/tts/tts_efarm":{
+		"sounds": [
+           "custom/line_e/tts/tts_efarm"
+		]
+    },
+	"line_e/tts/tts_egateway":{
+		"sounds": [
+           "custom/line_e/tts/tts_egateway"
+		]
+    },
+	"line_e/tts/tts_espawn":{
+		"sounds": [
+           "custom/line_e/tts/tts_espawn"
+		]
+    },
 	"shared/netherhub":{
 		"sounds": [
            "custom/shared/netherhub"
