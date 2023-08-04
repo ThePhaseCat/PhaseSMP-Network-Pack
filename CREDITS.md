@@ -36,6 +36,11 @@
 ## Line N3 - Arrival Music Credits
 - bedrock.ogg - Worm Tunnel - Sonic Boom: Shattered Crystal (https://youtu.be/J7-4UbTLsiQ)
 - hoglin.ogg - Factorio Gameplay Trailer - Factorio (https://youtu.be/pWi2Oevq0LA)
+## Line E - Arrival Music Credits
+- eexit.ogg - Crystal Valley - Sonic Xtreme (https://youtu.be/dpKNDLIahnE)
+- efarm.ogg - Death Egg mk.ll Act 1 - Sonic 4: Episode 2 (https://youtu.be/OatHU0_SQa8)
+- egateway.ogg - Team Star Boss Battle Theme - Pokemon: Scarlet and Violet (https://youtu.be/Zu-Ft3ElEeM)
+- espawn.ogg - Splatfest Battle 1 - Splatoon 3 (https://youtu.be/LOw5-bNoutg)
 
 ## Shared Music Credits
 - netherhub.ogg - Flowing (Cyber Space 1-2) - Sonic Frontiers (https://youtu.be/htKJY6ifXBY)
