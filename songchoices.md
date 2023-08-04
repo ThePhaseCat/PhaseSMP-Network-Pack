@@ -1,6 +1,6 @@
 ## This section contains potential songs for Line E (End Line) Stuff here may or may not be used for the line
 
--Arctic Battle 3/Asra Nox Battle Theme (Starbound: Vanilla): https://youtu.be/Ph3YvqAp0qI (Bedrock Portal Station)
+-Crystal Valley (Sonic Xtreme): https://youtu.be/dpKNDLIahnE (Bedrock Portal Station)
 
 -Death Egg mk.ll Act 1 (Sonic 4: Episode 2): https://youtu.be/OatHU0_SQa8 (Enderman Farm Station)
 
