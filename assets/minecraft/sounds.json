@@ -144,6 +144,26 @@
            "custom/n3/hoglin"
 		]
     },
+	"line_e/eexit":{
+		"sounds": [
+           "custom/line_e/eexit"
+		]
+    },
+	"line_e/efarm":{
+		"sounds": [
+           "custom/line_e/efarm"
+		]
+    },
+	"line_e/egateway":{
+		"sounds": [
+           "custom/line_e/egateway"
+		]
+    },
+	"line_e/espawn":{
+		"sounds": [
+           "custom/line_e/espawn"
+		]
+    },
 	"shared/netherhub":{
 		"sounds": [
            "custom/shared/netherhub"
