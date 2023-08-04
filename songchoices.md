@@ -1,13 +1,3 @@
-## This section contains potential songs for Line E (End Line) Stuff here may or may not be used for the line
-
--Crystal Valley (Sonic Xtreme): https://youtu.be/dpKNDLIahnE (Bedrock Portal Station)
-
--Death Egg mk.ll Act 1 (Sonic 4: Episode 2): https://youtu.be/OatHU0_SQa8 (Enderman Farm Station)
-
--Team Star Boss Battle Theme (Pokemon: Scarlet and Violet): https://youtu.be/Zu-Ft3ElEeM (End Gateway Station)
-
--Splatfest Battle 1 (Splatoon 3): https://youtu.be/LOw5-bNoutg (End Spawn Station)
-
 ## This section contains links for potential audio/music for any PhaseRail Lines and other audio for the Resource Pack. This is not a confirmation that any of these will show up; these are mearly suggestions and can be removed/tweaked at any moment in time. If these are used in any way, they will be removed from this list.
 
 -Harmony Square Station (Astral Chain): https://youtu.be/AWv8T5FsyzY (To be used in a disaster/locked-down area?)
