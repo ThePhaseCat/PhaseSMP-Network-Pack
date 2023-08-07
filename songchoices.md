@@ -1,12 +1,8 @@
 ## This section contains links for potential audio/music for any PhaseRail Lines and other audio for the Resource Pack. This is not a confirmation that any of these will show up; these are mearly suggestions and can be removed/tweaked at any moment in time. If these are used in any way, they will be removed from this list.
 
--Arctic Battle 3/Asra Nox Battle Theme (Starbound: Vanilla): https://youtu.be/Ph3YvqAp0qI (To be used for a lab/advanced area?)
-
 -Harmony Square Station (Astral Chain): https://youtu.be/AWv8T5FsyzY (To be used in a disaster/locked-down area?)
 
 -Sea Bottom Segue (Sonic Lost World): https://youtu.be/3CR6kKsy_LA (To be used in an underwater area)
-
--Splatfest Battle 1 (Splatoon 3): https://youtu.be/LOw5-bNoutg (Happy/Important area?)
 
 -Moutaintop Secrets (Mario and Luigi: Paper Jam): https://youtu.be/5fV3NH2pnuY (Mountain/Mysterious area?)
 
@@ -16,11 +12,7 @@
 
 -Shining Sprinter (No game attatched to it): https://youtu.be/983ocD7xwBg (Unsure of where this could be used)
 
--Death Egg mk.ll Act 1 (Sonic 4: Episode 2): https://youtu.be/OatHU0_SQa8 (Factory area?)
-
--Team Star Boss Battle Theme (Pokemon: Scarlet and Violet): https://youtu.be/MUGzVsLnXb8 (Compound area/rock area?)
-
--Gym Leader Battle Theme (Pokemon: Scarlet and Violet): https://youtu.be/aWS1zAswv_g (Jungle/Desert area?)
+-Gym Leader Battle Theme (Pokemon: Scarlet and Violet): https://youtu.be/LKOBYD39Af0 (Jungle/Desert area?)
 
 -Underground Desert (Terraria): https://youtu.be/07RSUhz6EVo (Underground Desert area?)
 
@@ -32,11 +24,11 @@
 
 -Resurrections (Celeste): https://youtu.be/1rwAvUvvQzQ (Mystery area?)
 
--Mega City Ad TTM01 (Fortnite): https://youtu.be/nc-2e6nP5gg (Neon/Techno area?)
+-Mega City Ad TTM01 (Fortnite): https://youtu.be/nc-2e6nP5gg (Neon/Techno area, North Phase-Town?)
 
--Mega City Ad TL02 (Fortnite): https://youtu.be/IYCDeBUxm0Y (Neon/Techno area?)
+-Mega City Ad TL02 (Fortnite): https://youtu.be/IYCDeBUxm0Y (Neon/Techno area, North Phase-Town?)
 
--Mega City Ramen Ad (Fortnite): https://youtu.be/UCLVBQ1wZt4 (Neon/Techno area?)
+-Mega City Ramen Ad (Fortnite): https://youtu.be/UCLVBQ1wZt4 (Neon/Techno area, North Phase-Town?)
 
 -Reach for the Summit (Celeste): https://youtu.be/t6cZn-Fvwa0 (Mountain/End/Important area? This could be used for a lot of audio)
 
@@ -46,3 +38,10 @@
 
 -Opening (Pokemon: Horizons Anime): https://youtu.be/5MrsNGy383s (Resting Audio)
 
+-Panic Puppet Zone Act 1 (Sonic 3D Blast Genesis): https://youtu.be/-b-4uPCbF34 (Important/happy area?)
+
+-Venus (Squiid): https://youtu.be/jNqbaSfNHlI (Neon/Techno area, North Phase-Town?)
+
+-Action Chain (Sonig Frontiers): https://youtu.be/gLBM3gkKZZk (Important, airport area? Also resting audio)
+
+-Imposters Win (Fornite): https://youtu.be/nCiF_Ac6Azk (Mystery/important area?)

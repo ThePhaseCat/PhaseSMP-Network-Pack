@@ -144,6 +144,46 @@
            "custom/n3/hoglin"
 		]
     },
+	"line_e/eexit":{
+		"sounds": [
+           "custom/line_e/eexit"
+		]
+    },
+	"line_e/efarm":{
+		"sounds": [
+           "custom/line_e/efarm"
+		]
+    },
+	"line_e/egateway":{
+		"sounds": [
+           "custom/line_e/egateway"
+		]
+    },
+	"line_e/espawn":{
+		"sounds": [
+           "custom/line_e/espawn"
+		]
+    },
+	"line_e/tts/tts_eexit":{
+		"sounds": [
+           "custom/line_e/tts/tts_eexit"
+		]
+    },
+	"line_e/tts/tts_efarm":{
+		"sounds": [
+           "custom/line_e/tts/tts_efarm"
+		]
+    },
+	"line_e/tts/tts_egateway":{
+		"sounds": [
+           "custom/line_e/tts/tts_egateway"
+		]
+    },
+	"line_e/tts/tts_espawn":{
+		"sounds": [
+           "custom/line_e/tts/tts_espawn"
+		]
+    },
 	"shared/netherhub":{
 		"sounds": [
            "custom/shared/netherhub"
