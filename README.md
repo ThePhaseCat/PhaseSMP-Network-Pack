@@ -1,7 +1,7 @@
 # PhaseSMP Network Pack
 This is a resource pack used on the PhaseSMP, with use mainly on PhaseSMP's growing Rail Network (PhaseRail). This resource pack aims to make things more "realistic" and also change some textures to better fit the PhaseSMP.
 
-## The current stable release is v2.4, The current beta release is v2.4, The current in-progress version is v2.4
+## The current stable release is v2.4, The current beta release is v2.4, The current in-progress version is v2.5
 
 # Some of the features include:
 - Arrival music for every station on the PhaseRail Network!
