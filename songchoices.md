@@ -51,3 +51,37 @@
 -Reach for the Summit (Celeste): https://youtu.be/t6cZn-Fvwa0 (Mountain/End/Important area? This could be used for a lot of audio)
 
 -Opening (Pokemon: Horizons Anime): https://youtu.be/5MrsNGy383s (Resting Audio)
+
+-Super Sonic Theme (Sonic Superstars): https://youtu.be/a5wBFrQJgrI?si=0fLV-Rj2vwliZS-g (Happy area?)
+
+-Late Game Boss Theme (Sonic Superstars): https://youtu.be/Y5oxGRh0cIY?si=uuvrYFBEyYe-Nopd (Important/industry area?)
+
+-Press Factory Act 2 (Sonic Superstars): https://youtu.be/kEhrTZb9QI0?si=AQk2bpr-1-LyW3Yg (Industry area?)
+
+-Press Factory Act 1 (Sonic Superstars): https://youtu.be/BTbiPZrniX8?si=AIo0HoZXWD92F1rq (Industry area? Also, this could easily be used for two things because of beginning and middle)
+
+-Egg Fortress Act 1 (Sonic Superstars): https://youtu.be/IupfKPqI258?si=u0jrXlfuRUwAt332 (Important/future area?)
+
+-Frozen Base Act 1 (Sonic Superstars): https://youtu.be/oOn4GNV5K9c?si=hpys9VFy_6mCXIG8 (Ice/Snow area?)
+
+-Speed Jungle Act 1 (Sonic Superstars): https://youtu.be/vu6imGoBUp0?si=9ZMD-yevUd06XliB (Jungle/chill area?)
+
+-Cyberspace 4-E (Sonic Frontiers): https://youtu.be/OzgYrE4TFHA?si=IbdVaei38Xh-FSrN (Techno/tech area?)
+
+-Second Wind (Sonic Frontiers): https://youtu.be/PL2neDdg7_A?si=aWbeO2P2UIH_SrfD (Calm/chill area?)
+
+-Platform Zone (Robot 64): https://youtu.be/xvhgbrmuRE4?si=U9s9bR2apDA1mIaq (Calm area?)
+
+-Candy Aquarium (Robot 64): https://youtu.be/D4hn7AegzaE?si=Ks0bEiV-sbRhj3ls (Ocean area?)
+
+-Turtle Tops (Air) (Robot 64): https://youtu.be/eplShBXiPcA?si=0JYaAnB-B1ELg8kO (Sky/chill area?)
+
+-Area Zero Wild Battle Theme (Pokemon SV): https://youtu.be/3Py1MtAECV0?si=ljQNys5IeI0hsCWQ (Weird/tech area?)
+
+-Loyal Three Battle Theme (Pokemon SV): https://youtu.be/a1iEtvt5HAg?si=eZK8HBfA1QnhX48V (Jungle/wild area?)
+
+-Five Nights at Freddy's (FNAF Movie): https://youtu.be/sY2ZpdJA5Lg?si=ajK0E10J4AAxQj3g (Spooky/creepy area?)
+
+-Resort Diegetic Music (Fortnite): https://youtu.be/fcC-L2PTtwo?si=hQjhs3wQLGkO0Fxl (Ocean area?)
+
+-Beethoven - Sonata No. 14 "Moonlight", First Movement (FAITH): https://youtu.be/rrSIw2EPpC4?si=fvqSOHqGjIvJZi5m (Creepy area?)
