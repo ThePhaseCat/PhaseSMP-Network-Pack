@@ -219,6 +219,41 @@
            "custom/shared/phasemall"
 		]
     },
+    	"shared/north_pt_mall":{
+		"sounds": [
+           "custom/shared/north_pt_mall"
+		]
+    },
+	"shared/pt_airport":{
+		"sounds": [
+           "custom/shared/pt_airport"
+		]
+    },
+	"shared/pt_docks":{
+		"sounds": [
+           "custom/shared/pt_docks"
+		]
+    },
+	"shared/pt_east_coast":{
+		"sounds": [
+           "custom/shared/pt_east_coast"
+		]
+    },
+	"shared/pt_indust":{
+		"sounds": [
+           "custom/shared/pt_indust"
+		]
+    },
+	"shared/pt_resort":{
+		"sounds": [
+           "custom/shared/pt_resort"
+		]
+    },
+    	"shared/pt_transfer":{
+		"sounds": [
+           "custom/shared/pt_transfer"
+		]
+    },
 	"shared/pta/pta_t2":{
 		"sounds": [
            "custom/shared/pta/pta_tts_t2"
