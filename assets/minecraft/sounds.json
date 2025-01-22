@@ -259,9 +259,14 @@
            "custom/shared/pt_resort"
 		]
     },
-    	"shared/pt_transfer":{
+    "shared/pt_transfer":{
 		"sounds": [
            "custom/shared/pt_transfer"
+		]
+    },
+	"shared/pta_terminal":{
+		"sounds": [
+           "custom/shared/pta_terminal"
 		]
     },
 	"shared/pta/pta_t2":{
@@ -279,12 +284,12 @@
            "custom/shared/pta/pta_tts_airport"
 		]
     },
-		"railroad/railroadcrossing":{
+	"railroad/railroadcrossing":{
 		"sounds": [
            "custom/railroad/railroadcrossing"
 		]
     },
-		"railroad/ticket_scan":{
+	"railroad/ticket_scan":{
 		"sounds": [
            "custom/railroad/ticket_scan"
 		]
