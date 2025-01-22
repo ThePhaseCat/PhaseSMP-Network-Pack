@@ -339,6 +339,16 @@
            "custom/startingannoucement/line2/line2towardskyroxcove"
 		]
     },
+		"startingannoucement/line_airport/airport_shuttle_towards_airport":{
+		"sounds": [
+           "custom/startingannoucement/line_airport/airport_shuttle_towards_airport"
+		]
+    },
+		"startingannoucement/line_airport/airport_shuttle_towards_spawn":{
+		"sounds": [
+           "custom/startingannoucement/line_airport/airport_shuttle_towards_spawn"
+		]
+    },
 		"startingannoucement/nether/n1towardsjungle":{
 		"sounds": [
            "custom/startingannoucement/nether/n1towardsjungle"
