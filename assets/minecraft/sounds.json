@@ -184,6 +184,16 @@
            "custom/line_e/tts/tts_espawn"
 		]
     },
+	"line_airport/north_spawn":{
+		"sounds": [
+			"custom/line_airport/north_spawn"
+		]
+	},
+	"line_airport/pt_airport_park":{
+		"sounds": [
+			"custom/line_airport/pt_airport_park"
+		]
+	},
 	"shared/netherhub":{
 		"sounds": [
            "custom/shared/netherhub"
@@ -219,6 +229,46 @@
            "custom/shared/phasemall"
 		]
     },
+    	"shared/north_pt_mall":{
+		"sounds": [
+           "custom/shared/north_pt_mall"
+		]
+    },
+	"shared/pt_airport":{
+		"sounds": [
+           "custom/shared/pt_airport"
+		]
+    },
+	"shared/pt_docks":{
+		"sounds": [
+           "custom/shared/pt_docks"
+		]
+    },
+	"shared/pt_east_coast":{
+		"sounds": [
+           "custom/shared/pt_east_coast"
+		]
+    },
+	"shared/pt_indust":{
+		"sounds": [
+           "custom/shared/pt_indust"
+		]
+    },
+	"shared/pt_resort":{
+		"sounds": [
+           "custom/shared/pt_resort"
+		]
+    },
+    "shared/pt_transfer":{
+		"sounds": [
+           "custom/shared/pt_transfer"
+		]
+    },
+	"shared/pta_terminal":{
+		"sounds": [
+           "custom/shared/pta_terminal"
+		]
+    },
 	"shared/pta/pta_t2":{
 		"sounds": [
            "custom/shared/pta/pta_tts_t2"
@@ -234,12 +284,12 @@
            "custom/shared/pta/pta_tts_airport"
 		]
     },
-		"railroad/railroadcrossing":{
+	"railroad/railroadcrossing":{
 		"sounds": [
            "custom/railroad/railroadcrossing"
 		]
     },
-		"railroad/ticket_scan":{
+	"railroad/ticket_scan":{
 		"sounds": [
            "custom/railroad/ticket_scan"
 		]
@@ -287,6 +337,16 @@
 		"startingannoucement/line2/line2towardskyroxcove":{
 		"sounds": [
            "custom/startingannoucement/line2/line2towardskyroxcove"
+		]
+    },
+		"startingannoucement/line_airport/airport_shuttle_towards_airport":{
+		"sounds": [
+           "custom/startingannoucement/line_airport/airport_shuttle_towards_airport"
+		]
+    },
+		"startingannoucement/line_airport/airport_shuttle_towards_spawn":{
+		"sounds": [
+           "custom/startingannoucement/line_airport/airport_shuttle_towards_spawn"
 		]
     },
 		"startingannoucement/nether/n1towardsjungle":{
