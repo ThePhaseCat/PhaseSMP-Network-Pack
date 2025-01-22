@@ -184,6 +184,16 @@
            "custom/line_e/tts/tts_espawn"
 		]
     },
+	"line_airport/north_spawn":{
+		"sounds": [
+			"custom/line_airport/north_spawn"
+		]
+	},
+	"line_airport/pt_airport_park":{
+		"sounds": [
+			"custom/line_airport/pt_airport_park"
+		]
+	},
 	"shared/netherhub":{
 		"sounds": [
            "custom/shared/netherhub"
