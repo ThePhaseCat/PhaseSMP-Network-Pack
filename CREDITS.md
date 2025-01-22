@@ -21,6 +21,10 @@
 - wave_bay.ogg - Wave Ocean, The Water's Edge - Sonic 06 (https://youtu.be/ggqTSLydqr0)
 - west_phase_town.ogg - Existentia - FWLR (https://youtu.be/Z9uxrzhLpJk)
 
+## PhaseTown Airport Shuttle - Arrival Music Credits
+- pt_airport_park.ogg - Action Chain - Sonic Frontiers (https://youtu.be/HLJVJphcJ5w?si=kPwa1o9z45VqhY7S)
+- north_spawn.ogg - Stranding (https://youtu.be/WBT2kC_wNO4?si=2dan7vTmhJOqN6oH)
+
 ## Line N1 - Arrival Music Credits
 - guardian.ogg - Atomic Destroyer Act 1 - Sonic Triple Trouble: 16 bit (https://youtu.be/gT6aErhPj9Y)
 - jungle_portal.ogg - Stardust Speedway Bad Future - Sonic CD: US Soundtrack (https://youtu.be/XUW8QXUQGRA)
@@ -50,6 +54,13 @@
 - southphasetown.ogg - Obsidian Fieldlands (Version 2) - Pokemon Legends: Arceus (https://youtu.be/kLHj0z3VZZs)
 - spawn.ogg - Sky City (Episode 5) - Minecraft Story Mode: Season 1 (https://youtu.be/tZRHLcgnAZE)
 - traincastle.ogg - Coronet Highlands (Summit) - Pokemon Legends: Arceus (https://youtu.be/Lg2VdSyHSRU)
+- pt_airport.ogg - In-Game - Sonic Dash 2: Sonic Boom (https://youtu.be/D-3k0i6WYjw)
+- pta_terminal.ogg - Venus - Squiid (https://youtu.be/jNqbaSfNHlI)
+- pt_indust.ogg - Character Select - Sonic Dash 2: Sonic Boom (https://youtu.be/vx9ukDo0us4)
+- pt_docks.ogg - Space Port - Sonic Forces (https://youtu.be/SPrXxc5EHag)
+- pt_resort.ogg - Mega City Ramen Ad - Fortnite (https://youtu.be/UCLVBQ1wZt4)
+- pt_transfer.ogg - Mega City Ad TTM01 - Fortnite (https://youtu.be/nc-2e6nP5gg)
+- pt_east_coast.ogg - -Panic Puppet Zone Act 1 - Sonic 3D Blast Genesis (https://youtu.be/-b-4uPCbF34)
 
 ## Resting Area Music Credits
 - rest1.ogg - Radio Loop - Portal (https://youtu.be/jcxeENnM0yI)
