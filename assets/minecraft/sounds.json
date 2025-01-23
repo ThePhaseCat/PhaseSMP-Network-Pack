@@ -194,6 +194,26 @@
 			"custom/line_airport/pt_airport_park"
 		]
 	},
+	"line_airport/transfer/phase_mall_tts":{
+		"sounds": [
+			"custom/line_airport/transfer/phase_mall_tts"
+		]
+	},
+	"line_airport/transfer/pt_indust_tts":{
+		"sounds": [
+			"custom/line_airport/transfer/pt_indust_tts"
+		]
+	},
+	"line_airport/transfer/spawn_tts":{
+		"sounds": [
+			"custom/line_airport/transfer/spawn_tts"
+		]
+	},
+	"line_airport/transfer/west_pt_tts":{
+		"sounds": [
+			"custom/line_airport/transfer/west_pt_tts"
+		]
+	},
 	"shared/netherhub":{
 		"sounds": [
            "custom/shared/netherhub"
